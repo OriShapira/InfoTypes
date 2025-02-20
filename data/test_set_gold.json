@@ -1,0 +1,4552 @@
+{
+    "data": [
+        {
+            "asin": "B00FLFMARK",
+            "product_title": "Pokemon Center Original Running 8 Inch Pikachu Plush Doll",
+            "category": "Toys and Games",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_14",
+            "sentence_idx": 1,
+            "sentence": "However, his tail does not stay up in the air as pictured and he is quite small.",
+            "sentence_types": {
+                "gold": [
+                    "product_description",
+                    "comparative_general",
+                    "opinion",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B01N3D2VTC",
+            "product_title": "Lionel The Polar Express Electric O Gauge Model Train Set with Remote and Bluetooth Capability",
+            "category": "Toys and Games",
+            "helpful_votes": 3,
+            "review_overall_rating": 1.0,
+            "review_id": "review_70",
+            "sentence_idx": 0,
+            "sentence": "The engine arrived with the wires that connect to the tender ripped out of base.",
+            "sentence_types": {
+                "gold": [
+                    "product_description",
+                    "delivery_experience",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00X04JRMU",
+            "product_title": "Wet or Waterless Car Wash Wax Kit 144 Ounces. Aircraft Quality for Your Car, RV, Boat, Motorcycle. The Best Wash Wax. Anywhere, Anytime, Home, Office, School, Garage, Parking Lots.",
+            "category": "Apparel",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_84",
+            "sentence_idx": 2,
+            "sentence": "Beats paying $15-20 for a good quick detailed.",
+            "sentence_types": {
+                "gold": [
+                    "comparative_general",
+                    "price",
+                    "opinion",
+                    "opinion_with_reason"
+                ]
+            }
+        },
+        {
+            "asin": "B01N2U5HNJ",
+            "product_title": "Timex Full-Size Ironman Essential 10 Watch",
+            "category": "Apparel",
+            "helpful_votes": 0,
+            "review_overall_rating": 1.0,
+            "review_id": "review_24",
+            "sentence_idx": 1,
+            "sentence": "It also looked like a fake copy of a Timex.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "comparative",
+                    "product_description",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "1440593345",
+            "product_title": "Survival Hacks: Over 200 Ways to Use Everyday Items for Wilderness Survival",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_21",
+            "sentence_idx": 3,
+            "sentence": "Goes great with his outdoor plants and all environments survival book and pocketknife he got for Christmas too",
+            "sentence_types": {
+                "gold": [
+                    "compatibility",
+                    "opinion",
+                    "personal_info",
+                    "personal_usage",
+                    "opinion_with_reason"
+                ]
+            }
+        },
+        {
+            "asin": "B01M686HSS",
+            "product_title": "Epson WorkForce ES-500W Wireless Color Duplex Document Scanner for PC and Mac, Auto Document Feeder (ADF)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_12",
+            "sentence_idx": 6,
+            "sentence": "Other available features I have not yet explored.",
+            "sentence_types": {
+                "gold": [
+                    "rhetorical",
+                    "personal_info",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00WADKDES",
+            "product_title": "Harry Potter Wizard Chess Set",
+            "category": "Toys and Games",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_82",
+            "sentence_idx": 0,
+            "sentence": "This set is really nice looking.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00AWM69H4",
+            "product_title": "Agility Weave Poles Adjustable 6 Pole Set with Carrying Case and Grass Stakes",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_97",
+            "sentence_idx": 0,
+            "sentence": "Works great for my small indoor setup.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "personal_info",
+                    "product_usage",
+                    "situation"
+                ]
+            }
+        },
+        {
+            "asin": "B003QRPAR2",
+            "product_title": "Savic Hamster Heaven Metro Cage",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 1.0,
+            "review_id": "review_77",
+            "sentence_idx": 1,
+            "sentence": "I saw several reviews of it being shipped and broken but I took my chance because of the size to give my hamster a better life's.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "delivery_experience",
+                    "personal_usage",
+                    "buy_decision",
+					"product_description",
+					"opinion",
+                    "opinion_with_reason",
+                    "product_usage",
+                    "speculative"
+                ]
+            }
+        },
+        {
+            "asin": "B00JGSM1EK",
+            "product_title": "Nature's Miracle NMI07009 Deodorizng Spring Water Wipes, 100 Count",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 3.0,
+            "review_id": "review_41",
+            "sentence_idx": 5,
+            "sentence": "I wish the packaging was different and it maybe had a \"one at a time\" dispensing set up like wome tissue boxes.",
+            "sentence_types": {
+                "gold": [
+                    "delivery_experience",
+                    "improvement_desire",
+                    "comparative",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B07RVC23SG",
+            "product_title": "Sony WH-XB900N Extra Bass Noise Cancelling Wireless Bluetooth Headphones with Mic, 30 Hours Battery Life and Quick Charge - Optimized For Google Assistant and Alexa \u2013 Black",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_88",
+            "sentence_idx": 1,
+            "sentence": "So comfortable and good bass levels.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "product_description",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B019CD4ZDS",
+            "product_title": "Bayer Tapeworm Dewormer (Praziquantel Tablets) for Cats, 3-Count Praziquantel Tablets for Cats and Kittens 6 Weeks and Older",
+            "category": "Pet Supplies",
+            "helpful_votes": 5,
+            "review_overall_rating": 4.0,
+            "review_id": "review_29",
+            "sentence_idx": 2,
+            "sentence": "Hardest part was figuring out how to get the pill down the little monster's throat.",
+            "sentence_types": {
+                "gold": [
+                    "opinion_with_reason",
+                    "product_usage",
+                    "imagery",
+					"opinion",
+					"personal_usage"
+                ]
+            }
+        },
+        {
+            "asin": "B002J4UBAO",
+            "product_title": "Peters Nature Treats",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_37",
+            "sentence_idx": 1,
+            "sentence": "Got these on a subscribe and save and could not beat the price.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "personal_info",
+                    "price",
+                    "buy_decision",
+                    "comparative_seller"
+                ]
+            }
+        },
+        {
+            "asin": "B01N8XA4YI",
+            "product_title": "Kulannder Wii Remote Battery Charger(Free USB Wall Charger+Lengthened Cord) Dual Charging Station Dock with Two Rechargeable Capacity Increased Batteries for Wii/Wii U Game Remote Controller (White)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 3.0,
+            "review_id": "review_77",
+            "sentence_idx": 0,
+            "sentence": "This would've been five stars had both batteries held their charge one battery lasts three times longer than the other one after a full charge I'll be returning this and replacing it with another one that hopefully both batteries last like they're supposed to",
+            "sentence_types": {
+                "gold": [
+                    "opinion_with_reason",
+                    "product_description",
+                    "personal_info",
+                    "improvement_desire",
+					"comparative_general",
+					"situation",
+					"product_usage",
+					"opinion",
+					"speculative"
+                ]
+            }
+        },
+        {
+            "asin": "B00E3W1726",
+            "product_title": "Samsung 840 EVO 250GB 2.5-Inch SATA III Internal SSD (MZ-7TE250BW)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_24",
+            "sentence_idx": 2,
+            "sentence": "The PS3 loads so much faster and my laptop definitely recovered nicely from almost turtle status.",
+            "sentence_types": {
+                "gold": [
+                    "comparative",
+                    "personal_info",
+                    "setup",
+                    "imagery",
+					"opinion",
+					"opinion_with_reason",
+					"personal_usage"
+                ]
+            }
+        },
+        {
+            "asin": "B00E3W1726",
+            "product_title": "Samsung 840 EVO 250GB 2.5-Inch SATA III Internal SSD (MZ-7TE250BW)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_53",
+            "sentence_idx": 4,
+            "sentence": "Note - you will need a usb cord (I used one from my external Seagate drive) to connect the new drive for the replication.",
+            "sentence_types": {
+                "gold": [
+                    "tip",
+                    "setup",
+                    "compatibility",
+                    "personal_usage",
+					"product_usage",
+					"situation"
+                ]
+            }
+        },
+        {
+            "asin": "B00X04JRMU",
+            "product_title": "Wet or Waterless Car Wash Wax Kit 144 Ounces. Aircraft Quality for Your Car, RV, Boat, Motorcycle. The Best Wash Wax. Anywhere, Anytime, Home, Office, School, Garage, Parking Lots.",
+            "category": "Apparel",
+            "helpful_votes": 8,
+            "review_overall_rating": 3.0,
+            "review_id": "review_10",
+            "sentence_idx": 0,
+            "sentence": "I like the waterless washing.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "product_description",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00WADKDES",
+            "product_title": "Harry Potter Wizard Chess Set",
+            "category": "Toys and Games",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_68",
+            "sentence_idx": 2,
+            "sentence": "It will be perfect if the board can be a little bit bigger.",
+            "sentence_types": {
+                "gold": [
+                    "opinion_with_reason",
+                    "improvement_desire",
+                    "product_description",
+                    "opinion",
+                    "speculative"
+                ]
+            }
+        },
+        {
+            "asin": "B00DBAA696",
+            "product_title": "CyberPower EC850LCD Ecologic Battery Backup & Surge Protector UPS System, 850VA/510W, 12 Outlets, ECO Mode, Compact, Uninterruptible Power Supply",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 1.0,
+            "review_id": "review_18",
+            "sentence_idx": 3,
+            "sentence": "Completely Crap product!",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "inappropriate",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "0826147119",
+            "product_title": "Social Work ASWB Masters Exam Guide, Second Edition: A Comprehensive Study Guide for Success - Book and Free App \u2013 Updated ASWB Study Guide Book with a Full ASWB Practice Test",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 3.0,
+            "review_id": "review_45",
+            "sentence_idx": 0,
+            "sentence": "New content for 2018 social work exam but noticed some typos and the app doesn't work.",
+            "sentence_types": {
+                "gold": [
+                    "product_description",
+                    "product_usage",
+                    "opinion",
+					""
+                ]
+            }
+        },
+        {
+            "asin": "B00FLYT4WU",
+            "product_title": "green sprouts Muslin Burp Cloths made from Organic Cotton | 4 absorbent layers protect from sniffles, drips & drools | 100% organic cotton muslin, Super soft & softer with every wash, Machine washable",
+            "category": "Apparel",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_55",
+            "sentence_idx": 4,
+            "sentence": "Easy to launder too.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "product_description",
+                    "personal_usage",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B019CD4ZDS",
+            "product_title": "Bayer Tapeworm Dewormer (Praziquantel Tablets) for Cats, 3-Count Praziquantel Tablets for Cats and Kittens 6 Weeks and Older",
+            "category": "Pet Supplies",
+            "helpful_votes": 3,
+            "review_overall_rating": 5.0,
+            "review_id": "review_66",
+            "sentence_idx": 2,
+            "sentence": "Then i tried wrapping little chunks of it in cheese.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "personal_usage",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B07RVC23SG",
+            "product_title": "Sony WH-XB900N Extra Bass Noise Cancelling Wireless Bluetooth Headphones with Mic, 30 Hours Battery Life and Quick Charge - Optimized For Google Assistant and Alexa \u2013 Black",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_94",
+            "sentence_idx": 2,
+            "sentence": "The sound quality for all ranges is quite hard to fault at this price.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "price",
+                    "comparative_general",
+                    "product_description"
+                ]
+            }
+        },
+        {
+            "asin": "0826147119",
+            "product_title": "Social Work ASWB Masters Exam Guide, Second Edition: A Comprehensive Study Guide for Success - Book and Free App \u2013 Updated ASWB Study Guide Book with a Full ASWB Practice Test",
+            "category": "Books",
+            "helpful_votes": 4,
+            "review_overall_rating": 4.0,
+            "review_id": "review_4",
+            "sentence_idx": 2,
+            "sentence": "I will say that the actual test is very different from this practice test in the book as the real tests involves more questions \"what do you do FIRST and what do you do NEXT?\" This guide makes it pretty easy to narrow down to two answers whereas the actual test is not that easy.",
+            "sentence_types": {
+                "gold": [
+                    "opinion_with_reason",
+                    "product_usage",
+                    "product_description",
+                    "tip",
+					"situation",
+					"opinion",
+					"comparative_general"
+                ]
+            }
+        },
+        {
+            "asin": "B00E3W1726",
+            "product_title": "Samsung 840 EVO 250GB 2.5-Inch SATA III Internal SSD (MZ-7TE250BW)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_61",
+            "sentence_idx": 1,
+            "sentence": "SSD's are silent, low power, and faster than a goddamn racehorse.",
+            "sentence_types": {
+                "gold": [
+                    "imagery",
+                    "sarcasm",
+                    "general_info",
+                    "opinion",
+					"product_description",
+					"inappropriate"
+                ]
+            }
+        },
+        {
+            "asin": "0618966145",
+            "product_title": "Peterson Field Guide to Birds of North America (Peterson Field Guide Series)",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_66",
+            "sentence_idx": 1,
+            "sentence": "This more recent version is updated, well illustrated, and has additional useful information for birders, naturalists and wildlife biologists.",
+            "sentence_types": {
+                "gold": [
+                    "opinion_with_reason",
+                    "product_description",
+                    "product_usage",
+                    "comparative",
+					"speculative",
+					"opinion"
+                ]
+            }
+        },
+        {
+            "asin": "B001DE2J74",
+            "product_title": "Playgro Activity Doofy Dog for baby infant toddler children 0101300, Playgro is Encouraging Imagination with STEM/STEM for a bright future - Great start for a world of learning",
+            "category": "Toys and Games",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_11",
+            "sentence_idx": 3,
+            "sentence": "It keeps him engaged and entertained.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "opinion",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B000NTZL7U",
+            "product_title": "Melissa & Doug My Magnetic Responsibility Chart",
+            "category": "Toys and Games",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_71",
+            "sentence_idx": 2,
+            "sentence": "The price is pretty unbeatable as well.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "price",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00HXAV0X6",
+            "product_title": "Seagate Backup Plus Fast 4TB Portable External Hard Drive USB 3.0, Black (STDA4000100)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_45",
+            "sentence_idx": 2,
+            "sentence": "With only one cord it starts beeping as if to say I'm dying more juice please.",
+            "sentence_types": {
+                "gold": [
+                    "imagery",
+                    "product_description",
+                    "situation",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B06VVHVZ12",
+            "product_title": "Kicko Pixel Sunglasses, Birthday Party Favors for Kids and Adults, 12 Pack",
+            "category": "Toys and Games",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_38",
+            "sentence_idx": 2,
+            "sentence": "The kids at the party loved them.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "personal_info",
+                    "personal_usage",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00AJT5GKG",
+            "product_title": "Best Friend Services Pet Urn - Memorial Cremation Pet Urns for Dog and Cat Ashes, Hand Carved Mia Series Urn for Pets up to 70lbs",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_98",
+            "sentence_idx": 0,
+            "sentence": "This is a lovely piece, I originally ordered a medium but had to return it for the large.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "personal_info",
+                    "product_description",
+                    "buy_decision"
+                ]
+            }
+        },
+        {
+            "asin": "B01IILD9WS",
+            "product_title": "JBL Reflect Aware in-Ear Sport Headphones with Lightning (Black)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 1.0,
+            "review_id": "review_30",
+            "sentence_idx": 9,
+            "sentence": "I superglued the replacement rubber pieces so they won't get lost.",
+            "sentence_types": {
+                "gold": [
+                    "personal_usage",
+                    "tip",
+                    "product_description",
+                    "speculative"
+                ]
+            }
+        },
+        {
+            "asin": "1450400957",
+            "product_title": "The Strength Training Anatomy Workout: Starting Strength with Bodyweight Training and Minimal Equipment",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_41",
+            "sentence_idx": 0,
+            "sentence": "Fast Shipper, Item as stated, Good Communications, I would purchase again!!",
+            "sentence_types": {
+                "gold": [
+                    "seller_experience",
+                    "delivery_experience",
+                    "buy_decision",
+                    "opinion_with_reason",
+					"opinion"
+                ]
+            }
+        },
+        {
+            "asin": "B000296N7S",
+            "product_title": "Panacur C Canine Dewormer (Fenbendazole), 4 Gram",
+            "category": "Pet Supplies",
+            "helpful_votes": 4,
+            "review_overall_rating": 3.0,
+            "review_id": "review_7",
+            "sentence_idx": 4,
+            "sentence": "I sneak this to him in balls of cheese and in between roasted chicken pieces, but its always a mess.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "personal_usage",
+                    "personal_info",
+                    "opinion_with_reason",
+                    "situation"
+                ]
+            }
+        },
+        {
+            "asin": "B01M686HSS",
+            "product_title": "Epson WorkForce ES-500W Wireless Color Duplex Document Scanner for PC and Mac, Auto Document Feeder (ADF)",
+            "category": "Electronics",
+            "helpful_votes": 5,
+            "review_overall_rating": 1.0,
+            "review_id": "review_1",
+            "sentence_idx": 6,
+            "sentence": "It angers me to see there is a 20% restocking fee!",
+            "sentence_types": {
+                "gold": [
+                    "opinion_with_reason",
+                    "seller_experience",
+                    "price",
+                    "opinion"
+                ]
+            }
+        },
+        {
+            "asin": "0999685902",
+            "product_title": "The Self-Taught Programmer: The Definitive Guide to Programming Professionally",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 3.0,
+            "review_id": "review_8",
+            "sentence_idx": 1,
+            "sentence": "I had problems with some of the programming when I type it into the python shell some times it with work other times I with get syntax errors it won't let the program run.",
+            "sentence_types": {
+                "gold": [
+                    "personal_usage",
+                    "personal_info",
+                    "situation",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B017B2043W",
+            "product_title": "Arlo Q \u2013 Wired, 1080p HD Security Camera | Night vision, Indoor only, 2-Way Audio | Cloud Storage Included | Works with Alexa (VMC3040), white, Standalone Camera (VMC3040-100NAS)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 3.0,
+            "review_id": "review_45",
+            "sentence_idx": 4,
+            "sentence": "Might be better off with another product, though I think generally these wifi cameras are still a work in progress as a whole.",
+            "sentence_types": {
+                "gold": [
+                    "speculative",
+                    "opinion",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B06XCW4VFS",
+            "product_title": "Bose SoundLink Revolve+ Portable and Long-Lasting Bluetooth 360 Speaker - Triple Black",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_60",
+            "sentence_idx": 4,
+            "sentence": "I took off a star for the high price and the fact that I'm not sure it sounds much better than another product that I bought from a competitor for about 1/2 the price.",
+            "sentence_types": {
+                "gold": [
+                    "opinion_with_reason",
+                    "comparative",
+                    "comparative_seller",
+                    "price",
+					"product_description",
+					"opinion",
+					"buy_decision"
+                ]
+            }
+        },
+        {
+            "asin": "B00FLYT4WU",
+            "product_title": "green sprouts Muslin Burp Cloths made from Organic Cotton | 4 absorbent layers protect from sniffles, drips & drools | 100% organic cotton muslin, Super soft & softer with every wash, Machine washable",
+            "category": "Apparel",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_46",
+            "sentence_idx": 1,
+            "sentence": "I've purchased many of these and love them.",
+            "sentence_types": {
+                "gold": [
+                    "buy_decision",
+                    "opinion",
+                    "personal_info",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B019CD4ZDS",
+            "product_title": "Bayer Tapeworm Dewormer (Praziquantel Tablets) for Cats, 3-Count Praziquantel Tablets for Cats and Kittens 6 Weeks and Older",
+            "category": "Pet Supplies",
+            "helpful_votes": 3,
+            "review_overall_rating": 5.0,
+            "review_id": "review_57",
+            "sentence_idx": 3,
+            "sentence": "Was easy to use).",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B000NTZL7U",
+            "product_title": "Melissa & Doug My Magnetic Responsibility Chart",
+            "category": "Toys and Games",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_67",
+            "sentence_idx": 1,
+            "sentence": "It is great for helping him to keep track of his daily responsibilities- I love that it is not \"chores.\" Rates durability low as the board is bowing as some other reviewers noted.",
+            "sentence_types": {
+                "gold": [
+                    "opinion_with_reason",
+                    "personal_usage",
+                    "tip",
+                    "product_description",
+					"opinion"
+                ]
+            }
+        },
+        {
+            "asin": "B00E3W1726",
+            "product_title": "Samsung 840 EVO 250GB 2.5-Inch SATA III Internal SSD (MZ-7TE250BW)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_2",
+            "sentence_idx": 8,
+            "sentence": "If it's still not clear to you, have someone else perform the installation.",
+            "sentence_types": {
+                "gold": [
+                    "setup",
+                    "tip",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B017B2043W",
+            "product_title": "Arlo Q \u2013 Wired, 1080p HD Security Camera | Night vision, Indoor only, 2-Way Audio | Cloud Storage Included | Works with Alexa (VMC3040), white, Standalone Camera (VMC3040-100NAS)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_81",
+            "sentence_idx": 0,
+            "sentence": "I have an elderly father who lives with us that is prone to falls.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "0618574239",
+            "product_title": "Kaufman Field Guide to Birds of North America",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_5",
+            "sentence_idx": 2,
+            "sentence": "I think that the birds look more realistic and distinct than with the books with drawings.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "comparative",
+                    "product_description",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00B555AR2",
+            "product_title": "Garmin Approach S2 Black/Green",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_25",
+            "sentence_idx": 4,
+            "sentence": "Swings the club, the bend in his wrist bumps the buttons.",
+            "sentence_types": {
+                "gold": [
+                    "situation",
+                    "personal_info",
+                    "rhetorical",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B0010OR008",
+            "product_title": "Kaytee Comfort Wheel Giant 12 Inches",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 2.0,
+            "review_id": "review_47",
+            "sentence_idx": 1,
+            "sentence": "I initially thought the sound was coming from the stand hitting the tank bottom, however I rigged it to the top of the cage and it was still noisy.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "situation",
+                    "opinion",
+                    "product_description",
+					"personal_usage",
+					"setup"
+                ]
+            }
+        },
+        {
+            "asin": "B019FBOY1A",
+            "product_title": "PET N PET Cat Litter Box Liners,Drawstring Litter Liner Bags for Litter Box, Extra Large Cat Litter Pan Liners,Heavy Duty Litter Liners Eco Friendly Pet Cat Supplies",
+            "category": "Pet Supplies",
+            "helpful_votes": 2,
+            "review_overall_rating": 5.0,
+            "review_id": "review_56",
+            "sentence_idx": 3,
+            "sentence": "The liner makes changing the box really easy.",
+            "sentence_types": {
+                "gold": [
+                    "opinion_with_reason",
+                    "opinion",
+                    "product_usage",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B076J5MDYS",
+            "product_title": "WeMo F7C074 Bridge - Works with Apple HomeKit",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_54",
+            "sentence_idx": 1,
+            "sentence": "This unit makes them work perfectly with my iPhone.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "compatibility",
+                    "personal_usage",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00JF8Q110",
+            "product_title": "Happy Kids Hand Puppets Multi Ethnic and Diversity Collection (Set of 8) Great for Daycare and Classrooms",
+            "category": "Toys and Games",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_62",
+            "sentence_idx": 3,
+            "sentence": "For the price, these are fine quality for children.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "price",
+                    "product_description",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B01N8XA4YI",
+            "product_title": "Kulannder Wii Remote Battery Charger(Free USB Wall Charger+Lengthened Cord) Dual Charging Station Dock with Two Rechargeable Capacity Increased Batteries for Wii/Wii U Game Remote Controller (White)",
+            "category": "Electronics",
+            "helpful_votes": 28,
+            "review_overall_rating": 5.0,
+            "review_id": "review_4",
+            "sentence_idx": 0,
+            "sentence": "The batteries are compatible with the original Nintendo controllers.",
+            "sentence_types": {
+                "gold": [
+                    "compatibility",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B0010OR008",
+            "product_title": "Kaytee Comfort Wheel Giant 12 Inches",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 1.0,
+            "review_id": "review_79",
+            "sentence_idx": 3,
+            "sentence": "Don't waste your money.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "tip",
+                    "rhetorical",
+                    "buy_decision"
+                ]
+            }
+        },
+        {
+            "asin": "B01D1JYXKO",
+            "product_title": "Gundam Modeler Basic Tools Craft Set For Car Model Assemble Building Kit by Alemon (Original Version)",
+            "category": "Toys and Games",
+            "helpful_votes": 0,
+            "review_overall_rating": 3.0,
+            "review_id": "review_5",
+            "sentence_idx": 1,
+            "sentence": "Cutters are good along with files, and sanding sticks.",
+            "sentence_types": {
+                "gold": [
+                    "general_info",
+                    "opinion",
+                    "product_usage",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B076J5MDYS",
+            "product_title": "WeMo F7C074 Bridge - Works with Apple HomeKit",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_73",
+            "sentence_idx": 1,
+            "sentence": "HomeKit now works with Wemo.",
+            "sentence_types": {
+                "gold": [
+                    "product_description",
+                    "compatibility",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B0155XV9KG",
+            "product_title": "TaoTronics Retractable Dog Leash, 16 ft Dog Walking Leash for Medium Large Dogs up to 110lbs, Tangle Free, One Button Break & Lock , Dog Waste Dispenser and Bags included",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 1.0,
+            "review_id": "review_38",
+            "sentence_idx": 2,
+            "sentence": "Update: I sent my request for a replacement at no charge and I received a response the same day offering a free replacement.",
+            "sentence_types": {
+                "gold": [
+                    "seller_experience",
+                    "price",
+                    "personal_info",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B000296N7S",
+            "product_title": "Panacur C Canine Dewormer (Fenbendazole), 4 Gram",
+            "category": "Pet Supplies",
+            "helpful_votes": 2,
+            "review_overall_rating": 5.0,
+            "review_id": "review_78",
+            "sentence_idx": 0,
+            "sentence": "Easy to administer with food.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "product_usage",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B07D4BKB2B",
+            "product_title": "LEGO City Advent Calendar 60201, New 2018 Edition, Minifigures, Small Building Toys, Christmas Countdown Calendar for Kids (313 Pieces)",
+            "category": "Toys and Games",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_62",
+            "sentence_idx": 0,
+            "sentence": "Every year I buy this for my children and the first Monday we assemble it.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "buy_decision",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "1932735658",
+            "product_title": "PMP Exam Prep, Eighth Edition - Updated: Rita's Course in a Book for Passing the PMP Exam",
+            "category": "Books",
+            "helpful_votes": 2,
+            "review_overall_rating": 5.0,
+            "review_id": "review_52",
+            "sentence_idx": 1,
+            "sentence": "I would definitely read the PMBOK, but this book will fill in all the details you need to pass the PMP.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "product_description",
+                    "product_usage",
+                    "tip"
+                ]
+            }
+        },
+        {
+            "asin": "B002RJLHB8",
+            "product_title": "Polk Audio T15 100 Watt Home Theater Bookshelf Speakers \u2013 Hi-Res Audio with Deep Bass Response | Dolby and DTS Surround | Wall-Mountable| Pair, Black",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_85",
+            "sentence_idx": 8,
+            "sentence": "The price fluctuates.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "price",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00JGSM1EK",
+            "product_title": "Nature's Miracle NMI07009 Deodorizng Spring Water Wipes, 100 Count",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_37",
+            "sentence_idx": 3,
+            "sentence": "Thank you so much.",
+            "sentence_types": {
+                "gold": [
+                    "rhetorical",
+                    "seller_experience",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "0544781937",
+            "product_title": "The Only Investment Guide You'll Ever Need",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_64",
+            "sentence_idx": 1,
+            "sentence": "I am still digesting it all.",
+            "sentence_types": {
+                "gold": [
+                    "rhetorical",
+                    "personal_info",
+                    "imagery",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00W1BNY6I",
+            "product_title": "Linksys WRT1200AC-UK Dual Band AC1200 Gigabit Smart WiFi Router (1.3 GHz Processor, 128 mb Flash, 256 DDR3 RAM, USB 3.0, eSATA, 4 x Ethernet), Open Source Ready",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_47",
+            "sentence_idx": 1,
+            "sentence": "RUN UPDATE FIRMWARE UPDATED STILL ERROR MESSAGE.",
+            "sentence_types": {
+                "gold": [
+                    "personal_usage",
+                    "situation",
+                    "setup",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B07B4LW62G",
+            "product_title": "Cowdog Chews Retriever roll 9-10 inch All Natural Rawhide Product",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_71",
+            "sentence_idx": 2,
+            "sentence": "They keep her from chewing on things she should not.",
+            "sentence_types": {
+                "gold": [
+                    "situation",
+                    "product_usage",
+                    "personal_info",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "1623158087",
+            "product_title": "The Complete Ketogenic Diet for Beginners: Your Essential Guide to Living the Keto Lifestyle",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_37",
+            "sentence_idx": 8,
+            "sentence": "It is an introduction.",
+            "sentence_types": {
+                "gold": [
+                    "product_description",
+                    "opinion",
+                    "product_usage",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00AJT5GKG",
+            "product_title": "Best Friend Services Pet Urn - Memorial Cremation Pet Urns for Dog and Cat Ashes, Hand Carved Mia Series Urn for Pets up to 70lbs",
+            "category": "Pet Supplies",
+            "helpful_votes": 11,
+            "review_overall_rating": 5.0,
+            "review_id": "review_42",
+            "sentence_idx": 0,
+            "sentence": "Kind of a bummer of a product any way you look at it, but if you need one of these then it's a good one.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "comparative_general",
+                    "buy_decision",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B06VVHVZ12",
+            "product_title": "Kicko Pixel Sunglasses, Birthday Party Favors for Kids and Adults, 12 Pack",
+            "category": "Toys and Games",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_34",
+            "sentence_idx": 1,
+            "sentence": "Had a couple of little girls who wanted pink.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B0083U842A",
+            "product_title": "KID K\u2019NEX \u2013 Build A Bunch Set \u2013 66 Pieces \u2013 For Ages 3+ Construction \u00a0Educational Toy (Amazon Exclusive), packaging may vary",
+            "category": "Toys and Games",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_40",
+            "sentence_idx": 2,
+            "sentence": "It was definitely a big hit!",
+            "sentence_types": {
+                "gold": [
+                    "general_info",
+                    "opinion",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B01N5JUW0P",
+            "product_title": "LEGO Pirates of The Caribbean Silent Mary 71042 Building Kit Ship",
+            "category": "Toys and Games",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_9",
+            "sentence_idx": 2,
+            "sentence": "Focused, he completed it \"all by himself\" and said it was the very best gift ever!",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "situation",
+                    "personal_info",
+                    "imagery"
+                ]
+            }
+        },
+        {
+            "asin": "B002A94YOW",
+            "product_title": "SportDOG Brand Roy Gonia Whistle- Hunting Dog Training Whistle with Easy-to-Blow Design- For Training or Field Use",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 1.0,
+            "review_id": "review_55",
+            "sentence_idx": 0,
+            "sentence": "This whistle has to be blown just right.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "product_usage",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B017B2043W",
+            "product_title": "Arlo Q \u2013 Wired, 1080p HD Security Camera | Night vision, Indoor only, 2-Way Audio | Cloud Storage Included | Works with Alexa (VMC3040), white, Standalone Camera (VMC3040-100NAS)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_49",
+            "sentence_idx": 1,
+            "sentence": "The 1080 and the audio features are nice additions as well.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "product_description",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00D3ITOHG",
+            "product_title": "Marshall Headphones M-ACCS-00152 Monitor Headphones, Black",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_51",
+            "sentence_idx": 1,
+            "sentence": "Slight hiccup with Australia Post and their delivery but eventually received the goods.",
+            "sentence_types": {
+                "gold": [
+                    "delivery_experience",
+                    "personal_info",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B0010OR008",
+            "product_title": "Kaytee Comfort Wheel Giant 12 Inches",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 1.0,
+            "review_id": "review_30",
+            "sentence_idx": 3,
+            "sentence": "Returning this & already ordered a better reviewed wheel that has a mounting system.",
+            "sentence_types": {
+                "gold": [
+                    "comparative",
+                    "opinion",
+                    "personal_info",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00D3ITOHG",
+            "product_title": "Marshall Headphones M-ACCS-00152 Monitor Headphones, Black",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_9",
+            "sentence_idx": 4,
+            "sentence": "They are also very low profile compared to the bulky Beats or Bose over-ears.",
+            "sentence_types": {
+                "gold": [
+                    "comparative",
+                    "opinion",
+                    "product_description",
+                    "opinion_with_reason"
+                ]
+            }
+        },
+        {
+            "asin": "B06XYDDBG5",
+            "product_title": "Oxbow Animal Health Garden Select Adult Rat Food, Garden-Inspired Recipe for Adult Rats, Non-GMO, Made in The USA, 2.5 Pound Bag",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_12",
+            "sentence_idx": 1,
+            "sentence": "Some of my rats don't seem to like it as much as the regular stuff but they will still eat it.",
+            "sentence_types": {
+                "gold": [
+                    "comparative",
+                    "personal_info",
+                    "personal_usage",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00T76GKLQ",
+            "product_title": "Hartz Lickable Wet Cat Treats",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_75",
+            "sentence_idx": 0,
+            "sentence": "I know cats are known to be finicky but I have one of the pickiest yet!",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "general_info",
+                    "personal_info",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "0618574239",
+            "product_title": "Kaufman Field Guide to Birds of North America",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_47",
+            "sentence_idx": 2,
+            "sentence": "We bought this book to make bird identification easier.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "personal_usage",
+                    "speculative",
+                    "situation"
+                ]
+            }
+        },
+        {
+            "asin": "B00AJT5GKG",
+            "product_title": "Best Friend Services Pet Urn - Memorial Cremation Pet Urns for Dog and Cat Ashes, Hand Carved Mia Series Urn for Pets up to 70lbs",
+            "category": "Pet Supplies",
+            "helpful_votes": 2,
+            "review_overall_rating": 5.0,
+            "review_id": "review_78",
+            "sentence_idx": 3,
+            "sentence": "we really miss our daog buut was happy with this for the look it has.",
+            "sentence_types": {
+                "gold": [
+                    "opinion_with_reason",
+                    "personal_info",
+                    "opinion",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B019CD4ZDS",
+            "product_title": "Bayer Tapeworm Dewormer (Praziquantel Tablets) for Cats, 3-Count Praziquantel Tablets for Cats and Kittens 6 Weeks and Older",
+            "category": "Pet Supplies",
+            "helpful_votes": 4,
+            "review_overall_rating": 5.0,
+            "review_id": "review_33",
+            "sentence_idx": 7,
+            "sentence": "If you aren't in a hurry, buy it from Amazon and save.",
+            "sentence_types": {
+                "gold": [
+                    "tip",
+                    "delivery_experience",
+                    "comparative_seller",
+                    "price"
+                ]
+            }
+        },
+        {
+            "asin": "B01IDJJJR4",
+            "product_title": "Parker Safety Razor's Large Alum Block with Travel Case (125 g / 4.4 oz.) - A Natural Aftershave with Antiseptic Properties",
+            "category": "Apparel",
+            "helpful_votes": 2,
+            "review_overall_rating": 1.0,
+            "review_id": "review_39",
+            "sentence_idx": 0,
+            "sentence": "Came broken in half.",
+            "sentence_types": {
+                "gold": [
+                    "delivery_experience",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00E3W1726",
+            "product_title": "Samsung 840 EVO 250GB 2.5-Inch SATA III Internal SSD (MZ-7TE250BW)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_12",
+            "sentence_idx": 0,
+            "sentence": "This is not my first SSD drive; in fact I've used most of the name brand including Kingston, Sandisk and Crucial.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "comparative",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B0186K8T9O",
+            "product_title": "AmazonBasics Portable Digital Luggage Weight Scale",
+            "category": "Apparel",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_85",
+            "sentence_idx": 0,
+            "sentence": "Pretty cheap but it does the job.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "price",
+                    "buy_decision",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B06XJ6LKLS",
+            "product_title": "LG 65SJ8000 65 WebOS 3.5 Smart UHD 4K HDR LED HDTV",
+            "category": "Electronics",
+            "helpful_votes": 2,
+            "review_overall_rating": 5.0,
+            "review_id": "review_3",
+            "sentence_idx": 5,
+            "sentence": "Really great bang for the buck!",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "price",
+                    "imagery",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00AWM69H4",
+            "product_title": "Agility Weave Poles Adjustable 6 Pole Set with Carrying Case and Grass Stakes",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 2.0,
+            "review_id": "review_45",
+            "sentence_idx": 0,
+            "sentence": "I suppose I need to really consider getting what I pay for.",
+            "sentence_types": {
+                "gold": [
+                    "rhetorical",
+                    "opinion",
+                    "sarcasm",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B01IDJJJR4",
+            "product_title": "Parker Safety Razor's Large Alum Block with Travel Case (125 g / 4.4 oz.) - A Natural Aftershave with Antiseptic Properties",
+            "category": "Apparel",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_15",
+            "sentence_idx": 4,
+            "sentence": "I do recommend washing the face after applying it, but if you like leaving alum on, it's not gonna leave white grainy surface like the Osma Block does.",
+            "sentence_types": {
+                "gold": [
+                    "tip",
+                    "product_description",
+                    "comparative",
+                    "situation",
+					"product_usage"
+                ]
+            }
+        },
+        {
+            "asin": "0743251547",
+            "product_title": "Be Prepared: Be Prepared",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_28",
+            "sentence_idx": 2,
+            "sentence": "It's to the point, written for dads, has information not only about the baby but also about how other aspects of your life will change, and it's funny as h*ll",
+            "sentence_types": {
+                "gold": [
+                    "product_description",
+                    "opinion_with_reason",
+                    "opinion",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00T76GKLQ",
+            "product_title": "Hartz Lickable Wet Cat Treats",
+            "category": "Pet Supplies",
+            "helpful_votes": 21,
+            "review_overall_rating": 5.0,
+            "review_id": "review_12",
+            "sentence_idx": 1,
+            "sentence": "I feed it to her more often then they say to, but she loves them and it ensures she gets enough moisture since she doesn't drink water as often as I wish she would.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "opinion",
+                    "product_description",
+                    "personal_usage"
+                ]
+            }
+        },
+        {
+            "asin": "B002TWBY16",
+            "product_title": "Estes 2452 Athena Flying Model Rocket Kit",
+            "category": "Toys and Games",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_11",
+            "sentence_idx": 2,
+            "sentence": "I would suggest buying a kit that contains rockets, the launch pad and controller as well as this rocket.",
+            "sentence_types": {
+                "gold": [
+                    "tip",
+                    "product_description",
+                    "compatibility",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B017B2043W",
+            "product_title": "Arlo Q \u2013 Wired, 1080p HD Security Camera | Night vision, Indoor only, 2-Way Audio | Cloud Storage Included | Works with Alexa (VMC3040), white, Standalone Camera (VMC3040-100NAS)",
+            "category": "Electronics",
+            "helpful_votes": 3,
+            "review_overall_rating": 1.0,
+            "review_id": "review_17",
+            "sentence_idx": 6,
+            "sentence": "Never again Netgear u fell off the map.",
+            "sentence_types": {
+                "gold": [
+                    "imagery",
+                    "opinion",
+                    "sarcasm",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B07B4M45TS",
+            "product_title": "PLUS PLUS BIG - Open Play Set - 90 Piece - Basic Color Mix, Construction Building Stem Toy, Interlocking Large Puzzle Blocks for Toddlers and Preschool",
+            "category": "Toys and Games",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_0",
+            "sentence_idx": 0,
+            "sentence": "I bought these for my grandkids who play with them for hours.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "personal_usage",
+                    "buy_decision",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B01N3D2VTC",
+            "product_title": "Lionel The Polar Express Electric O Gauge Model Train Set with Remote and Bluetooth Capability",
+            "category": "Toys and Games",
+            "helpful_votes": 3,
+            "review_overall_rating": 4.0,
+            "review_id": "review_23",
+            "sentence_idx": 4,
+            "sentence": "My complaint is that even as an adult, it's very difficult to align all the cars correctly on the track.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "situation",
+                    "product_description",
+                    "opinion_with_reason",
+                    "setup",
+                    "personal_usage"
+                ]
+            }
+        },
+        {
+            "asin": "B01HFJXBTU",
+            "product_title": "Merrell Men's Moab FST Low Rise Hiking Boots",
+            "category": "Apparel",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_13",
+            "sentence_idx": 3,
+            "sentence": "If you so happen to have a wide foot these would be better a size larger the normal.",
+            "sentence_types": {
+                "gold": [
+                    "tip",
+                    "speculative",
+                    "opinion",
+                    "product_description"
+                ]
+            }
+        },
+        {
+            "asin": "B018OFU3YA",
+            "product_title": "Dna My Dog - Canine Breed Identification Test Kit - at-Home Cheek Swab Kit - Personality Traits",
+            "category": "Pet Supplies",
+            "helpful_votes": 6,
+            "review_overall_rating": 1.0,
+            "review_id": "review_12",
+            "sentence_idx": 1,
+            "sentence": "Wish I read more reviews before wasting $70 on this junk.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "personal_info",
+                    "price",
+                    "buy_decision"
+                ]
+            }
+        },
+        {
+            "asin": "B00UT8IL68",
+            "product_title": "Cat Sip Real Milk Treat For Cats And Kittens, 8 Oz",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_44",
+            "sentence_idx": 0,
+            "sentence": "Bigger container and better price than the Whiskas brand from the store.",
+            "sentence_types": {
+                "gold": [
+                    "comparative",
+                    "opinion",
+                    "comparative_seller",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B006R0DJOG",
+            "product_title": "Yellow Mountain Imports Professional Chinese Mahjong Game Set - Double Happiness (Green) - with 146 Medium Size Tiles, 3 Dice and a Wind Indicator - for Chinese Style Game Play",
+            "category": "Toys and Games",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_9",
+            "sentence_idx": 1,
+            "sentence": "The case is nice, but I'll end up getting something more secure (wouldn't feel safe holding by handle because I would worry it might pop open and the tiles fall out).",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "personal_info",
+                    "comparative_general",
+                    "situation",
+					"product_description",
+					"speculative",
+					"improvement_desire",
+					"tip"
+                ]
+            }
+        },
+        {
+            "asin": "B001TIJP6W",
+            "product_title": "BLACKHAWK CQB/Rigger's Belt",
+            "category": "Apparel",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_31",
+            "sentence_idx": 1,
+            "sentence": "wasent my first choice, but wasent willing to wait 4 weeks for other belts, and im glad i didnt.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "personal_info",
+                    "comparative_general",
+                    "buy_decision"
+                ]
+            }
+        },
+        {
+            "asin": "B00GDHAT3W",
+            "product_title": "iPad Air Case, SUPCASE Heavy Duty Beetle Defense Series Full-Body Rugged Hybrid Protective Case Cover with Built-in Screen Protector for Apple iPad Air (Black/Black, not fit iPad Air 2)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_72",
+            "sentence_idx": 0,
+            "sentence": "Installed this today.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "personal_usage",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B002RJLHB8",
+            "product_title": "Polk Audio T15 100 Watt Home Theater Bookshelf Speakers \u2013 Hi-Res Audio with Deep Bass Response | Dolby and DTS Surround | Wall-Mountable| Pair, Black",
+            "category": "Books",
+            "helpful_votes": 3,
+            "review_overall_rating": 3.0,
+            "review_id": "review_24",
+            "sentence_idx": 7,
+            "sentence": "?",
+            "sentence_types": {
+                "gold": [
+                    "rhetorical",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00GDHAT3W",
+            "product_title": "iPad Air Case, SUPCASE Heavy Duty Beetle Defense Series Full-Body Rugged Hybrid Protective Case Cover with Built-in Screen Protector for Apple iPad Air (Black/Black, not fit iPad Air 2)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 2.0,
+            "review_id": "review_87",
+            "sentence_idx": 3,
+            "sentence": "The most important part of the iPad is basically unprotected, everyone knows how delicate ipads can be especially the screen, ita hard to believe they dropped the ball so hard.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "speculative",
+                    "imagery",
+                    "product_description",
+                    "opinion_with_reason"
+                ]
+            }
+        },
+        {
+            "asin": "B00UT8IL68",
+            "product_title": "Cat Sip Real Milk Treat For Cats And Kittens, 8 Oz",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_10",
+            "sentence_idx": 1,
+            "sentence": "Now, I can't make her drink water, but she does LOVE this milk!",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "personal_info",
+                    "comparative_general",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B01LWXF28H",
+            "product_title": "Appbot Riley Home Safety Movable Camera Robot",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 1.0,
+            "review_id": "review_22",
+            "sentence_idx": 4,
+            "sentence": "I dont know why they continue to sell this product.",
+            "sentence_types": {
+                "gold": [
+                    "rhetorical",
+                    "personal_info",
+                    "opinion",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B002A94YOW",
+            "product_title": "SportDOG Brand Roy Gonia Whistle- Hunting Dog Training Whistle with Easy-to-Blow Design- For Training or Field Use",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 1.0,
+            "review_id": "review_61",
+            "sentence_idx": 0,
+            "sentence": "It's grossly overpriced for a basically cheap whistle that can be bought in any 99 cent store for even less.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "price",
+                    "speculative",
+                    "opinion_with_reason",
+                    "comparative_general",
+                    "sarcasm"
+                ]
+            }
+        },
+        {
+            "asin": "B00FLYT4WU",
+            "product_title": "green sprouts Muslin Burp Cloths made from Organic Cotton | 4 absorbent layers protect from sniffles, drips & drools | 100% organic cotton muslin, Super soft & softer with every wash, Machine washable",
+            "category": "Apparel",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_9",
+            "sentence_idx": 0,
+            "sentence": "Just as some other reviewers have said, it's better than the aden and anais ones.",
+            "sentence_types": {
+                "gold": [
+                    "comparative",
+                    "opinion",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00GDHAT3W",
+            "product_title": "iPad Air Case, SUPCASE Heavy Duty Beetle Defense Series Full-Body Rugged Hybrid Protective Case Cover with Built-in Screen Protector for Apple iPad Air (Black/Black, not fit iPad Air 2)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_89",
+            "sentence_idx": 5,
+            "sentence": "It is an excellent value ($22.99), much less expensive and of better quality than ones I reviewed in stores.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "comparative",
+                    "price",
+                    "opinion_with_reason"
+                ]
+            }
+        },
+        {
+            "asin": "B008DJT67S",
+            "product_title": "MCM Custom Audio 60-10030 8\" Marine Wakeboard Two-Way Speaker Pair - White",
+            "category": "Electronics",
+            "helpful_votes": 4,
+            "review_overall_rating": 4.0,
+            "review_id": "review_61",
+            "sentence_idx": 0,
+            "sentence": "I purchased 2 sets of speakers to mount on a Jetboat wake tower.",
+            "sentence_types": {
+                "gold": [
+                    "compatibility",
+                    "personal_info",
+                    "personal_usage",
+                    "situation",
+                    "buy_decision"
+                ]
+            }
+        },
+        {
+            "asin": "B06XCW4VFS",
+            "product_title": "Bose SoundLink Revolve+ Portable and Long-Lasting Bluetooth 360 Speaker - Triple Black",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 1.0,
+            "review_id": "review_98",
+            "sentence_idx": 1,
+            "sentence": "No base, half the volume and scratchy sound.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "product_description",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B06XCW4VFS",
+            "product_title": "Bose SoundLink Revolve+ Portable and Long-Lasting Bluetooth 360 Speaker - Triple Black",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_52",
+            "sentence_idx": 0,
+            "sentence": "Added a 2nd speaker to pair with the my first one.",
+            "sentence_types": {
+                "gold": [
+                    "compatibility",
+                    "personal_info",
+                    "personal_usage",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00WADKDES",
+            "product_title": "Harry Potter Wizard Chess Set",
+            "category": "Toys and Games",
+            "helpful_votes": 18,
+            "review_overall_rating": 1.0,
+            "review_id": "review_2",
+            "sentence_idx": 2,
+            "sentence": "Very disappointed, not worthy of the Harry Potter namesake.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "comparative_general",
+                    "imagery",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B07B4M45TS",
+            "product_title": "PLUS PLUS BIG - Open Play Set - 90 Piece - Basic Color Mix, Construction Building Stem Toy, Interlocking Large Puzzle Blocks for Toddlers and Preschool",
+            "category": "Toys and Games",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_3",
+            "sentence_idx": 2,
+            "sentence": "She thought it was pretty cool hers was 4x the size of her brothers!",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "personal_info",
+                    "product_description",
+                    "comparative_general"
+                ]
+            }
+        },
+        {
+            "asin": "B07J1LP93H",
+            "product_title": "Topo Ultraventure Men-UK 10-Navy/Black",
+            "category": "Apparel",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_2",
+            "sentence_idx": 0,
+            "sentence": "The Topo Athletic Ultraventure Trail running shoe is a cross between my previous trail runners, the Altra Lone Peak 4.5 and the Hoka Speedgoat 3.",
+            "sentence_types": {
+                "gold": [
+                    "product_description",
+                    "comparative",
+                    "personal_info",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B01M686HSS",
+            "product_title": "Epson WorkForce ES-500W Wireless Color Duplex Document Scanner for PC and Mac, Auto Document Feeder (ADF)",
+            "category": "Electronics",
+            "helpful_votes": 4,
+            "review_overall_rating": 1.0,
+            "review_id": "review_14",
+            "sentence_idx": 1,
+            "sentence": "I returned it right away.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "opinion",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00D3ITOHG",
+            "product_title": "Marshall Headphones M-ACCS-00152 Monitor Headphones, Black",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_18",
+            "sentence_idx": 2,
+            "sentence": "They have the deepest bass out of all over the ear headphones I have tried.",
+            "sentence_types": {
+                "gold": [
+                    "comparative",
+                    "opinion",
+                    "personal_info",
+                    "product_description"
+                ]
+            }
+        },
+        {
+            "asin": "B00B555AR2",
+            "product_title": "Garmin Approach S2 Black/Green",
+            "category": "Electronics",
+            "helpful_votes": 3,
+            "review_overall_rating": 5.0,
+            "review_id": "review_6",
+            "sentence_idx": 6,
+            "sentence": "Also compared it to Bushnell RangeFinder and again was close.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "comparative",
+                    "personal_usage",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00008KWWF",
+            "product_title": "3M Wired Ergonomic Optical Mouse, Patented Vertical Grip Design Keeps Your Hand and Wrist at a Neutral Angle for Comfort, USB/PS2 Plug and Play Compatibility, 6.5' Cord, Large Size, Black (EM500GPL)",
+            "category": "Electronics",
+            "helpful_votes": 20,
+            "review_overall_rating": 5.0,
+            "review_id": "review_23",
+            "sentence_idx": 2,
+            "sentence": "Also forces larger motions instead of \"flicking\" the wrist for mouse motion.",
+            "sentence_types": {
+                "gold": [
+                    "product_description",
+                    "product_usage",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B018OFU3YA",
+            "product_title": "Dna My Dog - Canine Breed Identification Test Kit - at-Home Cheek Swab Kit - Personality Traits",
+            "category": "Pet Supplies",
+            "helpful_votes": 3,
+            "review_overall_rating": 1.0,
+            "review_id": "review_30",
+            "sentence_idx": 7,
+            "sentence": "I hope they just mixed up the swabs.",
+            "sentence_types": {
+                "gold": [
+                    "rhetorical",
+                    "personal_info",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B000YJ4DM8",
+            "product_title": "Safari by Coastal Mat Remover with Stainless Steel Blades to Easily Remove Mats & Tangles from Dogs of All Coat Types (W6117)",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_89",
+            "sentence_idx": 2,
+            "sentence": "She does not want to take them out herself of course so this little tool--used gently and correctly--does the job for both of us.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "situation",
+                    "product_usage",
+                    "product_description",
+					"opinion"
+                ]
+            }
+        },
+        {
+            "asin": "B00AJT5GKG",
+            "product_title": "Best Friend Services Pet Urn - Memorial Cremation Pet Urns for Dog and Cat Ashes, Hand Carved Mia Series Urn for Pets up to 70lbs",
+            "category": "Pet Supplies",
+            "helpful_votes": 2,
+            "review_overall_rating": 2.0,
+            "review_id": "review_11",
+            "sentence_idx": 2,
+            "sentence": "The overall quality seems fine.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B019CD4ZDS",
+            "product_title": "Bayer Tapeworm Dewormer (Praziquantel Tablets) for Cats, 3-Count Praziquantel Tablets for Cats and Kittens 6 Weeks and Older",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_79",
+            "sentence_idx": 0,
+            "sentence": "After trying two doses of the expensive dewormer that was prescribed by the vet for our 6-month kitten, we decided to trust the reviews of this product for treating his tapeworms.",
+            "sentence_types": {
+                "gold": [
+                    "product_description",
+                    "personal_info",
+                    "comparative",
+                    "situation",
+                    "buy_decision"
+                ]
+            }
+        },
+        {
+            "asin": "1623158087",
+            "product_title": "The Complete Ketogenic Diet for Beginners: Your Essential Guide to Living the Keto Lifestyle",
+            "category": "Books",
+            "helpful_votes": 3,
+            "review_overall_rating": 5.0,
+            "review_id": "review_32",
+            "sentence_idx": 0,
+            "sentence": "I hate buying cookbooks with just a few recipes that I end up liking.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "situation",
+                    "opinion_with_reason",
+                    "opinion",
+                    "buy_decision"
+                ]
+            }
+        },
+        {
+            "asin": "B002TWBY16",
+            "product_title": "Estes 2452 Athena Flying Model Rocket Kit",
+            "category": "Toys and Games",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_68",
+            "sentence_idx": 1,
+            "sentence": "Launched it 6 times and everything is still in great shape.",
+            "sentence_types": {
+                "gold": [
+                    "personal_usage",
+                    "opinion",
+                    "situation",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B006WHPQSQ",
+            "product_title": "Philips SHL5200BK/28 CitiScape Metro Headphones (Black) (Discontinued by Manufacturer)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 3.0,
+            "review_id": "review_34",
+            "sentence_idx": 1,
+            "sentence": "It's a little tight on the noggin, especially if you wear glasses.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "opinion_with_reason",
+                    "tip",
+                    "product_description",
+                    "imagery"
+                ]
+            }
+        },
+        {
+            "asin": "B00T76GKLQ",
+            "product_title": "Hartz Lickable Wet Cat Treats",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_38",
+            "sentence_idx": 2,
+            "sentence": "Please consider packaging one flavor per package so I can keep buying the one they like.",
+            "sentence_types": {
+                "gold": [
+                    "improvement_desire",
+                    "personal_info",
+                    "product_description",
+                    "buy_decision"
+                ]
+            }
+        },
+        {
+            "asin": "B006R0DJOG",
+            "product_title": "Yellow Mountain Imports Professional Chinese Mahjong Game Set - Double Happiness (Green) - with 146 Medium Size Tiles, 3 Dice and a Wind Indicator - for Chinese Style Game Play",
+            "category": "Toys and Games",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_14",
+            "sentence_idx": 2,
+            "sentence": "It has the heft of a good set.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "product_description",
+                    "opinion_with_reason",
+                    "comparative_general"
+                ]
+            }
+        },
+        {
+            "asin": "0618966145",
+            "product_title": "Peterson Field Guide to Birds of North America (Peterson Field Guide Series)",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_50",
+            "sentence_idx": 1,
+            "sentence": "Can't do without Audubon Society, or the Peterson Field Guide to Birds of North America, Or Amazon for having just what I needed, at a fair price and quick shipping.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "opinion",
+                    "delivery_experience",
+                    "seller_experience",
+					"price"
+                ]
+            }
+        },
+        {
+            "asin": "B003QRPAR2",
+            "product_title": "Savic Hamster Heaven Metro Cage",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_58",
+            "sentence_idx": 3,
+            "sentence": "It may be a bit of a challenge to clean but I am thinking about using a small shop vac to make my life easier.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "personal_info",
+                    "tip",
+                    "speculative"
+                ]
+            }
+        },
+        {
+            "asin": "B017B2043W",
+            "product_title": "Arlo Q \u2013 Wired, 1080p HD Security Camera | Night vision, Indoor only, 2-Way Audio | Cloud Storage Included | Works with Alexa (VMC3040), white, Standalone Camera (VMC3040-100NAS)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 1.0,
+            "review_id": "review_48",
+            "sentence_idx": 5,
+            "sentence": "Will not saddle anyone else with this worthless piece of sh&$(.",
+            "sentence_types": {
+                "gold": [
+                    "inappropriate",
+                    "opinion",
+                    "imagery",
+                    "personal_info"
+                ]
+            }
+        },
+        {
+            "asin": "B000296N7S",
+            "product_title": "Panacur C Canine Dewormer (Fenbendazole), 4 Gram",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_49",
+            "sentence_idx": 2,
+            "sentence": "Just mixed it with her dry food and a little bit of water to make it stick to the kibble.",
+            "sentence_types": {
+                "gold": [
+                    "personal_usage",
+                    "tip",
+                    "situation",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00JGSM1EK",
+            "product_title": "Nature's Miracle NMI07009 Deodorizng Spring Water Wipes, 100 Count",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 1.0,
+            "review_id": "review_21",
+            "sentence_idx": 5,
+            "sentence": "If I could have given this zero Stars I would.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "sarcasm",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "0671244175",
+            "product_title": "Simon & Schuster's Guide to Rocks & Minerals",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_40",
+            "sentence_idx": 1,
+            "sentence": "This way I can have a better looking collection.",
+            "sentence_types": {
+                "gold": [
+                    "rhetorical",
+                    "opinion",
+                    "personal_info",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "1932735658",
+            "product_title": "PMP Exam Prep, Eighth Edition - Updated: Rita's Course in a Book for Passing the PMP Exam",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 1.0,
+            "review_id": "review_49",
+            "sentence_idx": 3,
+            "sentence": "Don't use fake textbooks.",
+            "sentence_types": {
+                "gold": [
+                    "tip",
+                    "rhetorical",
+                    "sarcasm",
+                    "comparative_general",
+                    "general_info"
+                ]
+            }
+        },
+        {
+            "asin": "B00X04JRMU",
+            "product_title": "Wet or Waterless Car Wash Wax Kit 144 Ounces. Aircraft Quality for Your Car, RV, Boat, Motorcycle. The Best Wash Wax. Anywhere, Anytime, Home, Office, School, Garage, Parking Lots.",
+            "category": "Apparel",
+            "helpful_votes": 0,
+            "review_overall_rating": 1.0,
+            "review_id": "review_66",
+            "sentence_idx": 3,
+            "sentence": "I've tried after washing.",
+            "sentence_types": {
+                "gold": [
+                    "personal_usage",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "0393352242",
+            "product_title": "A Random Walk down Wall Street: The Time-tested Strategy for Successful Investing",
+            "category": "Books",
+            "helpful_votes": 2,
+            "review_overall_rating": 5.0,
+            "review_id": "review_33",
+            "sentence_idx": 0,
+            "sentence": "I would highly recommend reading both this and The Intelligent Investor by Benjamin Graham.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "tip",
+                    "product_usage",
+                    "comparative"
+                ]
+            }
+        },
+        {
+            "asin": "B00PZYQN70",
+            "product_title": "Melissa & Doug Zoo Friends Hand Puppets",
+            "category": "Toys and Games",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_19",
+            "sentence_idx": 4,
+            "sentence": "I love the detail on the animals, they're well made and so soft.",
+            "sentence_types": {
+                "gold": [
+                    "opinion_with_reason",
+                    "product_description",
+                    "opinion",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B01M686HSS",
+            "product_title": "Epson WorkForce ES-500W Wireless Color Duplex Document Scanner for PC and Mac, Auto Document Feeder (ADF)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_38",
+            "sentence_idx": 0,
+            "sentence": "I have a small home based business where I do photo scanning and custom photo books for clients and occasionally I get asked to scan documents.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "situation",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "0393352242",
+            "product_title": "A Random Walk down Wall Street: The Time-tested Strategy for Successful Investing",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_4",
+            "sentence_idx": 2,
+            "sentence": "Also covered is the rationale behind the data and stories, common pitfalls and traps, and the \"teach a man to fish\" approach.",
+            "sentence_types": {
+                "gold": [
+                    "product_description",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B002TWBY16",
+            "product_title": "Estes 2452 Athena Flying Model Rocket Kit",
+            "category": "Toys and Games",
+            "helpful_votes": 2,
+            "review_overall_rating": 5.0,
+            "review_id": "review_50",
+            "sentence_idx": 1,
+            "sentence": "If you just want to fly a great looking rocket without a couple days of prep time waiting for glue/paint to dry then this is the way to go.",
+            "sentence_types": {
+                "gold": [
+                    "tip",
+                    "situation",
+                    "comparative_general",
+                    "product_usage",
+					"opinion_with_reason",
+					"buy_decision",
+					"opinion"
+                ]
+            }
+        },
+        {
+            "asin": "B01N8XA4YI",
+            "product_title": "Kulannder Wii Remote Battery Charger(Free USB Wall Charger+Lengthened Cord) Dual Charging Station Dock with Two Rechargeable Capacity Increased Batteries for Wii/Wii U Game Remote Controller (White)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 3.0,
+            "review_id": "review_56",
+            "sentence_idx": 0,
+            "sentence": "Purchased this for obvious reasons.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "rhetorical",
+                    "buy_decision",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B003QRPAR2",
+            "product_title": "Savic Hamster Heaven Metro Cage",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_40",
+            "sentence_idx": 5,
+            "sentence": "So we purchased this large cage.",
+            "sentence_types": {
+                "gold": [
+                    "buy_decision",
+                    "product_description",
+                    "personal_info",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B06XJ6LKLS",
+            "product_title": "LG 65SJ8000 65 WebOS 3.5 Smart UHD 4K HDR LED HDTV",
+            "category": "Electronics",
+            "helpful_votes": 2,
+            "review_overall_rating": 4.0,
+            "review_id": "review_4",
+            "sentence_idx": 3,
+            "sentence": "almost think you need a sound bar to balance sound",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "general_info",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00AWM69H4",
+            "product_title": "Agility Weave Poles Adjustable 6 Pole Set with Carrying Case and Grass Stakes",
+            "category": "Pet Supplies",
+            "helpful_votes": 26,
+            "review_overall_rating": 5.0,
+            "review_id": "review_54",
+            "sentence_idx": 1,
+            "sentence": "No problem, these can be set up for channel weave use or regular spacing.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "product_usage",
+                    "opinion_with_reason",
+                    "setup",
+                    "product_description"
+                ]
+            }
+        },
+        {
+            "asin": "B076J5MDYS",
+            "product_title": "WeMo F7C074 Bridge - Works with Apple HomeKit",
+            "category": "Electronics",
+            "helpful_votes": 2,
+            "review_overall_rating": 5.0,
+            "review_id": "review_9",
+            "sentence_idx": 1,
+            "sentence": "The older plug is not HomeKit compatible, and we had to use the WeMo app to control it.",
+            "sentence_types": {
+                "gold": [
+                    "compatibility",
+                    "product_usage",
+                    "product_description",
+                    "comparative",
+                    "personal_usage"
+                ]
+            }
+        },
+        {
+            "asin": "B017B2043W",
+            "product_title": "Arlo Q \u2013 Wired, 1080p HD Security Camera | Night vision, Indoor only, 2-Way Audio | Cloud Storage Included | Works with Alexa (VMC3040), white, Standalone Camera (VMC3040-100NAS)",
+            "category": "Electronics",
+            "helpful_votes": 2,
+            "review_overall_rating": 1.0,
+            "review_id": "review_36",
+            "sentence_idx": 1,
+            "sentence": "None of my devices showed up.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "rhetorical",
+                    "delivery_experience",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B01M686HSS",
+            "product_title": "Epson WorkForce ES-500W Wireless Color Duplex Document Scanner for PC and Mac, Auto Document Feeder (ADF)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_78",
+            "sentence_idx": 0,
+            "sentence": "I've had one of these before (same model), and accidentally pulled the USB cord too hard and broke the connection :( Took me awhile to buy another- and I bought this specific model for a reason, I LOVE this machine!",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "personal_info",
+                    "buy_decision",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00008KWWF",
+            "product_title": "3M Wired Ergonomic Optical Mouse, Patented Vertical Grip Design Keeps Your Hand and Wrist at a Neutral Angle for Comfort, USB/PS2 Plug and Play Compatibility, 6.5' Cord, Large Size, Black (EM500GPL)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 1.0,
+            "review_id": "review_30",
+            "sentence_idx": 4,
+            "sentence": "Ridiculous!",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "rhetorical",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00WADKDES",
+            "product_title": "Harry Potter Wizard Chess Set",
+            "category": "Toys and Games",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_56",
+            "sentence_idx": 2,
+            "sentence": "Had they been glass or ceramic I would have paid more!",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "personal_info",
+                    "product_description",
+                    "improvement_desire",
+                    "comparative_general",
+                    "buy_decision"
+                ]
+            }
+        },
+        {
+            "asin": "B018OFU3YA",
+            "product_title": "Dna My Dog - Canine Breed Identification Test Kit - at-Home Cheek Swab Kit - Personality Traits",
+            "category": "Pet Supplies",
+            "helpful_votes": 2,
+            "review_overall_rating": 5.0,
+            "review_id": "review_15",
+            "sentence_idx": 3,
+            "sentence": "The DNA test of another brand just didn't seem correct compared to the results we got from DNA my dog and why we continue to use this kit.",
+            "sentence_types": {
+                "gold": [
+                    "comparative",
+                    "opinion",
+                    "personal_info",
+                    "situation"
+                ]
+            }
+        },
+        {
+            "asin": "B00AWM69H4",
+            "product_title": "Agility Weave Poles Adjustable 6 Pole Set with Carrying Case and Grass Stakes",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_93",
+            "sentence_idx": 0,
+            "sentence": "These weaves are great for practicing at home.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "product_usage",
+                    "tip",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B019CD4ZDS",
+            "product_title": "Bayer Tapeworm Dewormer (Praziquantel Tablets) for Cats, 3-Count Praziquantel Tablets for Cats and Kittens 6 Weeks and Older",
+            "category": "Pet Supplies",
+            "helpful_votes": 17,
+            "review_overall_rating": 1.0,
+            "review_id": "review_5",
+            "sentence_idx": 0,
+            "sentence": "I bought this for my four cats who all have tapeworms from fleas.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "personal_usage",
+                    "buy_decision",
+                    "situation"
+                ]
+            }
+        },
+        {
+            "asin": "B000296N7S",
+            "product_title": "Panacur C Canine Dewormer (Fenbendazole), 4 Gram",
+            "category": "Pet Supplies",
+            "helpful_votes": 79,
+            "review_overall_rating": 1.0,
+            "review_id": "review_0",
+            "sentence_idx": 2,
+            "sentence": "GREED GREED GREED there is NO OTHER REASON.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "rhetorical",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "0618574239",
+            "product_title": "Kaufman Field Guide to Birds of North America",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_28",
+            "sentence_idx": 3,
+            "sentence": "Kaufman will always be the book he carries around.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "speculative",
+                    "opinion",
+                    "sarcasm",
+                    "imagery"
+                ]
+            }
+        },
+        {
+            "asin": "B00E3W1726",
+            "product_title": "Samsung 840 EVO 250GB 2.5-Inch SATA III Internal SSD (MZ-7TE250BW)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_81",
+            "sentence_idx": 0,
+            "sentence": "I bought this as a boost and a holdover for my MacBook Pro till the next refresh.",
+            "sentence_types": {
+                "gold": [
+                    "buy_decision",
+                    "personal_info",
+                    "personal_usage",
+                    "product_description",
+					"situation"
+                ]
+            }
+        },
+        {
+            "asin": "B076J5MDYS",
+            "product_title": "WeMo F7C074 Bridge - Works with Apple HomeKit",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_7",
+            "sentence_idx": 3,
+            "sentence": "Its not a big deal, but its annoying as less savvy tech people like my wife don't know to do that.",
+            "sentence_types": {
+                "gold": [
+                    "opinion_with_reason",
+                    "personal_info",
+                    "opinion",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00T76GKLQ",
+            "product_title": "Hartz Lickable Wet Cat Treats",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_8",
+            "sentence_idx": 4,
+            "sentence": "So, thanks, Hartz, for buying us precious extra time.",
+            "sentence_types": {
+                "gold": [
+                    "sarcasm",
+                    "rhetorical",
+                    "imagery",
+                    "personal_info",
+					"opinion"
+                ]
+            }
+        },
+        {
+            "asin": "B00UT8IL68",
+            "product_title": "Cat Sip Real Milk Treat For Cats And Kittens, 8 Oz",
+            "category": "Pet Supplies",
+            "helpful_votes": 6,
+            "review_overall_rating": 5.0,
+            "review_id": "review_1",
+            "sentence_idx": 4,
+            "sentence": "He likes his milk!",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "opinion",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00UP4K50G",
+            "product_title": "Salewa Men's Ms Alp Trainer Mid Gore-tex High Rise Hiking Shoes",
+            "category": "Apparel",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_25",
+            "sentence_idx": 3,
+            "sentence": "Normally take a 11.5-12 ( depending on manufacture) picked 12 for these.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "comparative",
+                    "product_description",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "0743251547",
+            "product_title": "Be Prepared: Be Prepared",
+            "category": "Books",
+            "helpful_votes": 5,
+            "review_overall_rating": 1.0,
+            "review_id": "review_4",
+            "sentence_idx": 2,
+            "sentence": "The chapter about pretending that intimacy is more important than sex was disgusting.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "product_description",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B06XJ6LKLS",
+            "product_title": "LG 65SJ8000 65 WebOS 3.5 Smart UHD 4K HDR LED HDTV",
+            "category": "Electronics",
+            "helpful_votes": 2,
+            "review_overall_rating": 4.0,
+            "review_id": "review_4",
+            "sentence_idx": 3,
+            "sentence": "almost think you need a sound bar to balance sound",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "product_usage",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B01LZ4SLI1",
+            "product_title": "Heavy Duty Truck Scan Tool NL102 Plus Auto Scanner with DPF/Sensor Calibration/Oil Reset + Check Engine for Cars; Truck & Car 2 in 1 Code Reader (Upgrade Version)",
+            "category": "Apparel",
+            "helpful_votes": 0,
+            "review_overall_rating": 1.0,
+            "review_id": "review_33",
+            "sentence_idx": 2,
+            "sentence": "Ended up going to shop anyway and spent more money just to get codes.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "compatibility",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00F2JDZ5G",
+            "product_title": "Timberland Classic 3 Eye Chukka",
+            "category": "Apparel",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_83",
+            "sentence_idx": 1,
+            "sentence": "Will recommend this company to anyone they came with no issues what so ever",
+            "sentence_types": {
+                "gold": [
+                    "opinion_with_reason",
+                    "seller_experience",
+                    "opinion",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B076J5MDYS",
+            "product_title": "WeMo F7C074 Bridge - Works with Apple HomeKit",
+            "category": "Electronics",
+            "helpful_votes": 2,
+            "review_overall_rating": 1.0,
+            "review_id": "review_11",
+            "sentence_idx": 3,
+            "sentence": "Useless, irritating and time-consuming.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B0155XV9KG",
+            "product_title": "TaoTronics Retractable Dog Leash, 16 ft Dog Walking Leash for Medium Large Dogs up to 110lbs, Tangle Free, One Button Break & Lock , Dog Waste Dispenser and Bags included",
+            "category": "Pet Supplies",
+            "helpful_votes": 4,
+            "review_overall_rating": 1.0,
+            "review_id": "review_6",
+            "sentence_idx": 1,
+            "sentence": "After the company read my review they contacted me via email and mailed me a new leash in January so far I have had no problems with this leash the customer service is great they definitely follow up and want you to be satisfied",
+            "sentence_types": {
+                "gold": [
+                    "seller_experience",
+                    "personal_info",
+                    "opinion_with_reason",
+                    "opinion"
+                ]
+            }
+        },
+        {
+            "asin": "B006WHPQSQ",
+            "product_title": "Philips SHL5200BK/28 CitiScape Metro Headphones (Black) (Discontinued by Manufacturer)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_18",
+            "sentence_idx": 3,
+            "sentence": "The cord is extended from an earbud length, making it a bit easier to use with a computer or mp3 device.",
+            "sentence_types": {
+                "gold": [
+                    "opinion_with_reason",
+                    "product_description",
+                    "product_usage",
+                    "opinion",
+                    "comparative_general"
+                ]
+            }
+        },
+        {
+            "asin": "B0186K8T9O",
+            "product_title": "AmazonBasics Portable Digital Luggage Weight Scale",
+            "category": "Apparel",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_77",
+            "sentence_idx": 1,
+            "sentence": "For $8, you cannot go wrong and this is a must have item if you are a frequent traveler.",
+            "sentence_types": {
+                "gold": [
+                    "price",
+                    "tip",
+                    "product_usage",
+                    "opinion",
+					"speculative",
+                    "buy_decision"
+                ]
+            }
+        },
+        {
+            "asin": "B008DJT67S",
+            "product_title": "MCM Custom Audio 60-10030 8\" Marine Wakeboard Two-Way Speaker Pair - White",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_33",
+            "sentence_idx": 1,
+            "sentence": "Cheap too so you won't care if you bust one on a limb or rollover.",
+            "sentence_types": {
+                "gold": [
+                    "opinion_with_reason",
+                    "speculative",
+                    "price",
+                    "imagery",
+					"opinion"
+                ]
+            }
+        },
+        {
+            "asin": "B0096WDAIM",
+            "product_title": "Olympus E-PM2 Mirrorless Digital Camera with 14-42mm Lens (Black) (Old Model)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_5",
+            "sentence_idx": 1,
+            "sentence": "the sensor is very adept at taking low light photos.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "product_description",
+                    "product_usage",
+                    "situation"
+                ]
+            }
+        },
+        {
+            "asin": "B06XCW4VFS",
+            "product_title": "Bose SoundLink Revolve+ Portable and Long-Lasting Bluetooth 360 Speaker - Triple Black",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_70",
+            "sentence_idx": 3,
+            "sentence": "Wish I had pictures of all the places this speaker has been.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B003QRPAR2",
+            "product_title": "Savic Hamster Heaven Metro Cage",
+            "category": "Pet Supplies",
+            "helpful_votes": 3,
+            "review_overall_rating": 4.0,
+            "review_id": "review_88",
+            "sentence_idx": 0,
+            "sentence": "Love the cage, did have damage during shipping, I just hot glued most of the broken parts as I didn't want to wait and or deal with getting replacements.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "delivery_experience",
+                    "situation",
+                    "personal_usage",
+					"personal_info"
+                ]
+            }
+        },
+        {
+            "asin": "B07XYDVSWJ",
+            "product_title": "Reebok Women's Crossfit Grace Tr Track Shoe",
+            "category": "Apparel",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_40",
+            "sentence_idx": 3,
+            "sentence": "Love how they look on my feet!",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "personal_info",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00HXAV0X6",
+            "product_title": "Seagate Backup Plus Fast 4TB Portable External Hard Drive USB 3.0, Black (STDA4000100)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 1.0,
+            "review_id": "review_47",
+            "sentence_idx": 10,
+            "sentence": "Don't buy it for a mac",
+            "sentence_types": {
+                "gold": [
+                    "tip",
+                    "compatibility",
+                    "product_usage",
+                    "buy_decision"
+                ]
+            }
+        },
+        {
+            "asin": "B00W1BNY6I",
+            "product_title": "Linksys WRT1200AC-UK Dual Band AC1200 Gigabit Smart WiFi Router (1.3 GHz Processor, 128 mb Flash, 256 DDR3 RAM, USB 3.0, eSATA, 4 x Ethernet), Open Source Ready",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_67",
+            "sentence_idx": 1,
+            "sentence": "I installed software from my VPN provider and have all devices in the property protected.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "personal_usage",
+                    "setup",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00W1BNY6I",
+            "product_title": "Linksys WRT1200AC-UK Dual Band AC1200 Gigabit Smart WiFi Router (1.3 GHz Processor, 128 mb Flash, 256 DDR3 RAM, USB 3.0, eSATA, 4 x Ethernet), Open Source Ready",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_16",
+            "sentence_idx": 2,
+            "sentence": "The biggest pain in the a*se has been trying to find a simple modem that will work with it to connect it to my broadband line.",
+            "sentence_types": {
+                "gold": [
+                    "opinion_with_reason",
+                    "compatibility",
+                    "setup",
+                    "opinion"
+                ]
+            }
+        },
+        {
+            "asin": "1440593345",
+            "product_title": "Survival Hacks: Over 200 Ways to Use Everyday Items for Wilderness Survival",
+            "category": "Books",
+            "helpful_votes": 2,
+            "review_overall_rating": 5.0,
+            "review_id": "review_52",
+            "sentence_idx": 5,
+            "sentence": "They might resist making and wearing the \"Bra Cup Debris Mask\", though.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "product_description",
+                    "speculative",
+                    "personal_info"
+                ]
+            }
+        },
+        {
+            "asin": "B00D3ITOHG",
+            "product_title": "Marshall Headphones M-ACCS-00152 Monitor Headphones, Black",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 1.0,
+            "review_id": "review_39",
+            "sentence_idx": 4,
+            "sentence": "Really?",
+            "sentence_types": {
+                "gold": [
+                    "rhetorical",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "0375402330",
+            "product_title": "National Audubon Society Field Guide to North American Wildflowers: Western Region",
+            "category": "Books",
+            "helpful_votes": 3,
+            "review_overall_rating": 1.0,
+            "review_id": "review_4",
+            "sentence_idx": 0,
+            "sentence": "This is a good book, but I was delivered a copy with a torn cover.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "delivery_experience",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B006R0DJOG",
+            "product_title": "Yellow Mountain Imports Professional Chinese Mahjong Game Set - Double Happiness (Green) - with 146 Medium Size Tiles, 3 Dice and a Wind Indicator - for Chinese Style Game Play",
+            "category": "Toys and Games",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_31",
+            "sentence_idx": 2,
+            "sentence": "It feels like the same material as what binders are made of.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "product_description",
+                    "comparative_general",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B017B2043W",
+            "product_title": "Arlo Q \u2013 Wired, 1080p HD Security Camera | Night vision, Indoor only, 2-Way Audio | Cloud Storage Included | Works with Alexa (VMC3040), white, Standalone Camera (VMC3040-100NAS)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_69",
+            "sentence_idx": 1,
+            "sentence": "The bad: At night there was an object obstructing part of my camera's view.",
+            "sentence_types": {
+                "gold": [
+                    "opinion_with_reason",
+                    "personal_usage",
+                    "personal_info",
+                    "opinion"
+                ]
+            }
+        },
+        {
+            "asin": "0393352242",
+            "product_title": "A Random Walk down Wall Street: The Time-tested Strategy for Successful Investing",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_26",
+            "sentence_idx": 1,
+            "sentence": "My late father introduced me to the book in the early 90's and I read it again now 15 years later.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "product_description",
+                    "personal_usage",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "0671244175",
+            "product_title": "Simon & Schuster's Guide to Rocks & Minerals",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_56",
+            "sentence_idx": 1,
+            "sentence": "Has coloured, full images but I question whether or not the 'rarity of mineral' listed is actually true considering the age of the book.",
+            "sentence_types": {
+                "gold": [
+                    "product_description",
+                    "opinion",
+                    "speculative",
+                    "general_info",
+                    "opinion_with_reason"
+                ]
+            }
+        },
+        {
+            "asin": "1516700236",
+            "product_title": "Property & Casualty Exam Practice Questions: P-C Practice Tests & Review for the Property & Casualty Insurance Exam",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_24",
+            "sentence_idx": 2,
+            "sentence": "The shipping was super fast!",
+            "sentence_types": {
+                "gold": [
+                    "delivery_experience",
+                    "opinion",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B003QRPAR2",
+            "product_title": "Savic Hamster Heaven Metro Cage",
+            "category": "Pet Supplies",
+            "helpful_votes": 25,
+            "review_overall_rating": 5.0,
+            "review_id": "review_10",
+            "sentence_idx": 1,
+            "sentence": "Perfect for a Syrian or Dwarf hamster.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "product_usage",
+                    "tip",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "0618966145",
+            "product_title": "Peterson Field Guide to Birds of North America (Peterson Field Guide Series)",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_23",
+            "sentence_idx": 4,
+            "sentence": "It is for your back pack.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "imagery",
+                    "buy_decision",
+                    "speculative"
+                ]
+            }
+        },
+        {
+            "asin": "B003QRPAR2",
+            "product_title": "Savic Hamster Heaven Metro Cage",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 1.0,
+            "review_id": "review_98",
+            "sentence_idx": 0,
+            "sentence": "Received today.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "delivery_experience",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B01LNB6SP0",
+            "product_title": "Sheba Meaty Tender Sticks Cat Treats, Pack of 50",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_21",
+            "sentence_idx": 0,
+            "sentence": "I find the single packaging wasteful, and if you are not careful when tearing each package off it will tear into the stick next to the one you want.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "tip",
+                    "product_description",
+                    "situation",
+					"speculative"
+                ]
+            }
+        },
+        {
+            "asin": "1440593345",
+            "product_title": "Survival Hacks: Over 200 Ways to Use Everyday Items for Wilderness Survival",
+            "category": "Books",
+            "helpful_votes": 15,
+            "review_overall_rating": 3.0,
+            "review_id": "review_1",
+            "sentence_idx": 2,
+            "sentence": "The majority of the ideas are more of a \"perhaps fun to try as a neat science experiment\", but a lot of them are not even that....(like the bra-breathing mask).",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "tip",
+                    "product_description",
+                    "product_usage"
+                ]
+            }
+        },
+        {
+            "asin": "1438011113",
+            "product_title": "ACT 36 with Online Test: Aiming for the Perfect Score (Barron's Test Prep)",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_12",
+            "sentence_idx": 5,
+            "sentence": "After he finished the book copy he liked being able to access the online test.",
+            "sentence_types": {
+                "gold": [
+                    "personal_usage",
+                    "personal_info",
+                    "situation",
+                    "opinion"
+                ]
+            }
+        },
+        {
+            "asin": "B00008KWWF",
+            "product_title": "3M Wired Ergonomic Optical Mouse, Patented Vertical Grip Design Keeps Your Hand and Wrist at a Neutral Angle for Comfort, USB/PS2 Plug and Play Compatibility, 6.5' Cord, Large Size, Black (EM500GPL)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_85",
+            "sentence_idx": 0,
+            "sentence": "Have been using for about 5 years.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00E3W1726",
+            "product_title": "Samsung 840 EVO 250GB 2.5-Inch SATA III Internal SSD (MZ-7TE250BW)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_30",
+            "sentence_idx": 1,
+            "sentence": "I installed this in a 2009 MacBook Pro and it \"breathed new life\" into it.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "imagery",
+                    "compatibility",
+                    "personal_usage"
+                ]
+            }
+        },
+        {
+            "asin": "B07XYDVSWJ",
+            "product_title": "Reebok Women's Crossfit Grace Tr Track Shoe",
+            "category": "Apparel",
+            "helpful_votes": 0,
+            "review_overall_rating": 3.0,
+            "review_id": "review_55",
+            "sentence_idx": 1,
+            "sentence": "Bummer!",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "rhetorical",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "1440593345",
+            "product_title": "Survival Hacks: Over 200 Ways to Use Everyday Items for Wilderness Survival",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_72",
+            "sentence_idx": 0,
+            "sentence": "Pretty cool little book, amazed at the gadgets one can use to survive",
+            "sentence_types": {
+                "gold": [
+                    "opinion_with_reason",
+                    "product_description",
+                    "product_usage",
+                    "opinion"
+                ]
+            }
+        },
+        {
+            "asin": "1440593345",
+            "product_title": "Survival Hacks: Over 200 Ways to Use Everyday Items for Wilderness Survival",
+            "category": "Books",
+            "helpful_votes": 6,
+            "review_overall_rating": 5.0,
+            "review_id": "review_56",
+            "sentence_idx": 3,
+            "sentence": "If you're stuck without a candle, knowing how to use other items in your home or car or camping gear might mean the difference between a comfy night and a very, very long night.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "speculative",
+                    "situation",
+                    "general_info",
+					"tip"
+                ]
+            }
+        },
+        {
+            "asin": "B06XCW4VFS",
+            "product_title": "Bose SoundLink Revolve+ Portable and Long-Lasting Bluetooth 360 Speaker - Triple Black",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 2.0,
+            "review_id": "review_45",
+            "sentence_idx": 1,
+            "sentence": "I think you could get 16 hours out of it if you listened on 5% volume while flying in a fighter jet over multiple time zones and you calculated the time change.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "product_description",
+                    "sarcasm",
+                    "imagery",
+					"speculative"
+                ]
+            }
+        },
+        {
+            "asin": "B00W1BNY6I",
+            "product_title": "Linksys WRT1200AC-UK Dual Band AC1200 Gigabit Smart WiFi Router (1.3 GHz Processor, 128 mb Flash, 256 DDR3 RAM, USB 3.0, eSATA, 4 x Ethernet), Open Source Ready",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_92",
+            "sentence_idx": 0,
+            "sentence": "Got about the expected increase in signal as I expected.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "personal_info",
+                    "product_usage",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B077WRZHYY",
+            "product_title": "Tespo Cube Storage Book Shelf Metal Bookcase Shelving Closet Organization System, 20, Wire Grid",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 1.0,
+            "review_id": "review_94",
+            "sentence_idx": 5,
+            "sentence": "Hopefully it will stay together.",
+            "sentence_types": {
+                "gold": [
+                    "speculative",
+                    "opinion",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00E3W1726",
+            "product_title": "Samsung 840 EVO 250GB 2.5-Inch SATA III Internal SSD (MZ-7TE250BW)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_42",
+            "sentence_idx": 8,
+            "sentence": "I also bought a Sabrent external 2.5 enclosure (great price $9.99) for cloning the drive over and gave me an extra external drive with old 2.5 from the laptop for backups.",
+            "sentence_types": {
+                "gold": [
+                    "price",
+                    "personal_info",
+                    "compatibility",
+                    "setup",
+					"personal_usage",
+					"situation",
+					"buy_decision"
+                ]
+            }
+        },
+        {
+            "asin": "B077WRZHYY",
+            "product_title": "Tespo Cube Storage Book Shelf Metal Bookcase Shelving Closet Organization System, 20, Wire Grid",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_21",
+            "sentence_idx": 2,
+            "sentence": "Will update one I try experimenting different setups",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "rhetorical",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B07B4LW62G",
+            "product_title": "Cowdog Chews Retriever roll 9-10 inch All Natural Rawhide Product",
+            "category": "Pet Supplies",
+            "helpful_votes": 4,
+            "review_overall_rating": 1.0,
+            "review_id": "review_10",
+            "sentence_idx": 2,
+            "sentence": "Our dog seems to like them just fine but they dont last very long because they are MAYBE 1/2 of what they advertise.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "product_description",
+                    "personal_info",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B008DJT67S",
+            "product_title": "MCM Custom Audio 60-10030 8\" Marine Wakeboard Two-Way Speaker Pair - White",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_93",
+            "sentence_idx": 3,
+            "sentence": "They are plenty loud for my trail riding/work around the property!",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "personal_usage",
+                    "personal_info",
+                    "product_description",
+                    "situation"
+                ]
+            }
+        },
+        {
+            "asin": "B017B2043W",
+            "product_title": "Arlo Q \u2013 Wired, 1080p HD Security Camera | Night vision, Indoor only, 2-Way Audio | Cloud Storage Included | Works with Alexa (VMC3040), white, Standalone Camera (VMC3040-100NAS)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 2.0,
+            "review_id": "review_61",
+            "sentence_idx": 3,
+            "sentence": "@ (already 3+ hours into frustration) and of course .. support has run out !",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "setup",
+                    "situation",
+                    "seller_experience"
+                ]
+            }
+        },
+        {
+            "asin": "B0155XV9KG",
+            "product_title": "TaoTronics Retractable Dog Leash, 16 ft Dog Walking Leash for Medium Large Dogs up to 110lbs, Tangle Free, One Button Break & Lock , Dog Waste Dispenser and Bags included",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_66",
+            "sentence_idx": 8,
+            "sentence": "Thanks for the poop bag holders as well.",
+            "sentence_types": {
+                "gold": [
+                    "product_description",
+                    "seller_experience",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B019CD4ZDS",
+            "product_title": "Bayer Tapeworm Dewormer (Praziquantel Tablets) for Cats, 3-Count Praziquantel Tablets for Cats and Kittens 6 Weeks and Older",
+            "category": "Pet Supplies",
+            "helpful_votes": 29,
+            "review_overall_rating": 5.0,
+            "review_id": "review_10",
+            "sentence_idx": 4,
+            "sentence": "Amazon sells them for much cheaper than pet stores, although I do wish it came in a larger size.",
+            "sentence_types": {
+                "gold": [
+                    "comparative_seller",
+                    "improvement_desire",
+                    "opinion",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B076J5MDYS",
+            "product_title": "WeMo F7C074 Bridge - Works with Apple HomeKit",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_64",
+            "sentence_idx": 2,
+            "sentence": "Therefore you need to improve on the man machine user friendliness for the setup and icon selection configuration.",
+            "sentence_types": {
+                "gold": [
+                    "improvement_desire",
+                    "setup",
+                    "product_description",
+                    "opinion"
+                ]
+            }
+        },
+        {
+            "asin": "1623158087",
+            "product_title": "The Complete Ketogenic Diet for Beginners: Your Essential Guide to Living the Keto Lifestyle",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 2.0,
+            "review_id": "review_82",
+            "sentence_idx": 1,
+            "sentence": "Really, they are pretty basic recipes that you could find anywhere.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "speculative",
+                    "product_description",
+                    "comparative_general"
+                ]
+            }
+        },
+        {
+            "asin": "B00HXAV0X6",
+            "product_title": "Seagate Backup Plus Fast 4TB Portable External Hard Drive USB 3.0, Black (STDA4000100)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_34",
+            "sentence_idx": 0,
+            "sentence": "I bought this Hard Drive for my Xbox One because 500 gb internal was not enough seeing as how an average game is almost 50 GB alone.",
+            "sentence_types": {
+                "gold": [
+                    "buy_decision",
+                    "compatibility",
+                    "personal_usage",
+                    "general_info",
+					"speculative"
+                ]
+            }
+        },
+        {
+            "asin": "B002A94YOW",
+            "product_title": "SportDOG Brand Roy Gonia Whistle- Hunting Dog Training Whistle with Easy-to-Blow Design- For Training or Field Use",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 1.0,
+            "review_id": "review_68",
+            "sentence_idx": 1,
+            "sentence": "Packing says No Pea.",
+            "sentence_types": {
+                "gold": [
+                    "product_description",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B0096WDAIM",
+            "product_title": "Olympus E-PM2 Mirrorless Digital Camera with 14-42mm Lens (Black) (Old Model)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_58",
+            "sentence_idx": 4,
+            "sentence": "Live guide has a learning curve, but worth it for sure.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "tip",
+                    "product_usage",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B001TIJP6W",
+            "product_title": "BLACKHAWK CQB/Rigger's Belt",
+            "category": "Apparel",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_29",
+            "sentence_idx": 3,
+            "sentence": "I have used it several time and have had no issues at all.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "personal_info",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B002RJLHB8",
+            "product_title": "Polk Audio T15 100 Watt Home Theater Bookshelf Speakers \u2013 Hi-Res Audio with Deep Bass Response | Dolby and DTS Surround | Wall-Mountable| Pair, Black",
+            "category": "Books",
+            "helpful_votes": 2,
+            "review_overall_rating": 1.0,
+            "review_id": "review_21",
+            "sentence_idx": 2,
+            "sentence": "The bass is a joke, not much treble, and mostly mids, so the sound is very tinny.",
+            "sentence_types": {
+                "gold": [
+                    "opinion_with_reason",
+                    "product_description",
+                    "opinion",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00IOTB7PG",
+            "product_title": "TEMPTATIONS Classic Crunchy and Soft Cat Treats, 16 oz.",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_44",
+            "sentence_idx": 1,
+            "sentence": "My cat is hooked on them something fierce.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "imagery",
+                    "personal_info",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00008KWWF",
+            "product_title": "3M Wired Ergonomic Optical Mouse, Patented Vertical Grip Design Keeps Your Hand and Wrist at a Neutral Angle for Comfort, USB/PS2 Plug and Play Compatibility, 6.5' Cord, Large Size, Black (EM500GPL)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 2.0,
+            "review_id": "review_95",
+            "sentence_idx": 5,
+            "sentence": "I have only been using it for a few hours and it is already beginning to not function well.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "personal_info",
+                    "situation",
+                    "personal_usage"
+                ]
+            }
+        },
+        {
+            "asin": "B01N3D2VTC",
+            "product_title": "Lionel The Polar Express Electric O Gauge Model Train Set with Remote and Bluetooth Capability",
+            "category": "Toys and Games",
+            "helpful_votes": 3,
+            "review_overall_rating": 5.0,
+            "review_id": "review_7",
+            "sentence_idx": 0,
+            "sentence": "I grew up playing with old-fashioned Lionel trains.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B010E0WLWK",
+            "product_title": "Forum Novelties - Pet Costume-Hot Dog Costume",
+            "category": "Toys and Games",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_12",
+            "sentence_idx": 0,
+            "sentence": "Fits my 12 lb dachshund perfectly!",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "opinion",
+                    "personal_usage",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00PZYQN70",
+            "product_title": "Melissa & Doug Zoo Friends Hand Puppets",
+            "category": "Toys and Games",
+            "helpful_votes": 9,
+            "review_overall_rating": 3.0,
+            "review_id": "review_10",
+            "sentence_idx": 3,
+            "sentence": "They are 100% made for child hands.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "product_usage",
+                    "product_description",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B002A94YOW",
+            "product_title": "SportDOG Brand Roy Gonia Whistle- Hunting Dog Training Whistle with Easy-to-Blow Design- For Training or Field Use",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_85",
+            "sentence_idx": 0,
+            "sentence": "I had Roy Gonia whistles last time I had Brittanys.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "comparative",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00B555AR2",
+            "product_title": "Garmin Approach S2 Black/Green",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_14",
+            "sentence_idx": 1,
+            "sentence": "This watch/GPS is very well made and has so many functions I doubt I'll ever use them all.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "product_description",
+                    "speculative",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B01D1JYXKO",
+            "product_title": "Gundam Modeler Basic Tools Craft Set For Car Model Assemble Building Kit by Alemon (Original Version)",
+            "category": "Toys and Games",
+            "helpful_votes": 3,
+            "review_overall_rating": 5.0,
+            "review_id": "review_6",
+            "sentence_idx": 1,
+            "sentence": "The Xacto is perfect for cutting the nubs down left behind from the sprues and the filers for sanding the nubs down.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "product_usage",
+                    "tip",
+                    "product_description"
+                ]
+            }
+        },
+        {
+            "asin": "B000YJ4DM8",
+            "product_title": "Safari by Coastal Mat Remover with Stainless Steel Blades to Easily Remove Mats & Tangles from Dogs of All Coat Types (W6117)",
+            "category": "Pet Supplies",
+            "helpful_votes": 5,
+            "review_overall_rating": 5.0,
+            "review_id": "review_19",
+            "sentence_idx": 1,
+            "sentence": "The mats were gone after just a few passes, and my cat didn't so much as flinch when I combed through the mats.",
+            "sentence_types": {
+                "gold": [
+                    "personal_usage",
+                    "product_description",
+                    "personal_info",
+                    "product_usage"
+                ]
+            }
+        },
+        {
+            "asin": "0826147119",
+            "product_title": "Social Work ASWB Masters Exam Guide, Second Edition: A Comprehensive Study Guide for Success - Book and Free App \u2013 Updated ASWB Study Guide Book with a Full ASWB Practice Test",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_23",
+            "sentence_idx": 0,
+            "sentence": "I can't access any of the online/phone application benefits, because the code scratched off entirely when I tried to reveal it.",
+            "sentence_types": {
+                "gold": [
+                    "product_description",
+                    "personal_info",
+                    "product_usage",
+                    "setup",
+                    "situation"
+                ]
+            }
+        },
+        {
+            "asin": "B00HXAV0X6",
+            "product_title": "Seagate Backup Plus Fast 4TB Portable External Hard Drive USB 3.0, Black (STDA4000100)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_58",
+            "sentence_idx": 2,
+            "sentence": "It's very quiet, and the performance has made a good difference, it's faster than the internal HDD on the Xbox and I notice on some games that I'm the first one to load into multiplayer lobbies.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "comparative",
+                    "personal_info",
+                    "personal_usage",
+                    "opinion_with_reason"
+                ]
+            }
+        },
+        {
+            "asin": "0999685902",
+            "product_title": "The Self-Taught Programmer: The Definitive Guide to Programming Professionally",
+            "category": "Books",
+            "helpful_votes": 4,
+            "review_overall_rating": 3.0,
+            "review_id": "review_7",
+            "sentence_idx": 5,
+            "sentence": "There is enough of that babble everywhere else.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "comparative_general",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00AWM69H4",
+            "product_title": "Agility Weave Poles Adjustable 6 Pole Set with Carrying Case and Grass Stakes",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_43",
+            "sentence_idx": 0,
+            "sentence": "I love the set however it arrived with one of the cups that hold the poles completely stripped and I will have to either find a larger screw or super glue it.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "delivery_experience",
+                    "situation",
+                    "personal_usage",
+					"personal_info",
+					"product_description"
+                ]
+            }
+        },
+        {
+            "asin": "B00DBAA696",
+            "product_title": "CyberPower EC850LCD Ecologic Battery Backup & Surge Protector UPS System, 850VA/510W, 12 Outlets, ECO Mode, Compact, Uninterruptible Power Supply",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 3.0,
+            "review_id": "review_51",
+            "sentence_idx": 1,
+            "sentence": "I mean really!",
+            "sentence_types": {
+                "gold": [
+                    "rhetorical",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00X04JRMU",
+            "product_title": "Wet or Waterless Car Wash Wax Kit 144 Ounces. Aircraft Quality for Your Car, RV, Boat, Motorcycle. The Best Wash Wax. Anywhere, Anytime, Home, Office, School, Garage, Parking Lots.",
+            "category": "Apparel",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_86",
+            "sentence_idx": 5,
+            "sentence": "I have since shared some with my campground friends and told them to use it and then buy some more!",
+            "sentence_types": {
+                "gold": [
+                    "buy_decision",
+                    "personal_info",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B07B4LW62G",
+            "product_title": "Cowdog Chews Retriever roll 9-10 inch All Natural Rawhide Product",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_83",
+            "sentence_idx": 1,
+            "sentence": "They last longer than ones bought in big box stores and aren't from China.",
+            "sentence_types": {
+                "gold": [
+                    "comparative_seller",
+                    "opinion",
+                    "product_description",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B01N2U5HNJ",
+            "product_title": "Timex Full-Size Ironman Essential 10 Watch",
+            "category": "Apparel",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_38",
+            "sentence_idx": 3,
+            "sentence": "My gym has a serious lack of clocks (for some odd reason), and this watch is comfortable enough to wear during tough workouts.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "product_usage",
+                    "opinion",
+                    "situation"
+                ]
+            }
+        },
+        {
+            "asin": "B019FBOY1A",
+            "product_title": "PET N PET Cat Litter Box Liners,Drawstring Litter Liner Bags for Litter Box, Extra Large Cat Litter Pan Liners,Heavy Duty Litter Liners Eco Friendly Pet Cat Supplies",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_12",
+            "sentence_idx": 0,
+            "sentence": "Although I clean my cat boxes 3-4 times each day, these are an excellent way to completely change my scooping cat litter once a month.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "personal_usage",
+                    "product_usage",
+                    "opinion"
+                ]
+            }
+        },
+        {
+            "asin": "B006R0DJOG",
+            "product_title": "Yellow Mountain Imports Professional Chinese Mahjong Game Set - Double Happiness (Green) - with 146 Medium Size Tiles, 3 Dice and a Wind Indicator - for Chinese Style Game Play",
+            "category": "Toys and Games",
+            "helpful_votes": 0,
+            "review_overall_rating": 4.0,
+            "review_id": "review_34",
+            "sentence_idx": 0,
+            "sentence": "This is a great tile set for playing either Chinese or Japanese Mahjong - the tiles are easy to read, great weight and texture, and just a fantastic set for the price.",
+            "sentence_types": {
+                "gold": [
+                    "product_usage",
+                    "opinion_with_reason",
+                    "product_description",
+                    "price",
+					"opinion"
+                ]
+            }
+        },
+        {
+            "asin": "B00X04JRMU",
+            "product_title": "Wet or Waterless Car Wash Wax Kit 144 Ounces. Aircraft Quality for Your Car, RV, Boat, Motorcycle. The Best Wash Wax. Anywhere, Anytime, Home, Office, School, Garage, Parking Lots.",
+            "category": "Apparel",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_93",
+            "sentence_idx": 7,
+            "sentence": "I think I can get a dozen washes out of this order, so it's a very good value.",
+            "sentence_types": {
+                "gold": [
+                    "opinion_with_reason",
+                    "product_description",
+                    "product_usage",
+                    "speculative",
+					"opinion"
+                ]
+            }
+        },
+        {
+            "asin": "0826147119",
+            "product_title": "Social Work ASWB Masters Exam Guide, Second Edition: A Comprehensive Study Guide for Success - Book and Free App \u2013 Updated ASWB Study Guide Book with a Full ASWB Practice Test",
+            "category": "Books",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_53",
+            "sentence_idx": 5,
+            "sentence": "!",
+            "sentence_types": {
+                "gold": [
+                    "rhetorical",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B07D4BKB2B",
+            "product_title": "LEGO City Advent Calendar 60201, New 2018 Edition, Minifigures, Small Building Toys, Christmas Countdown Calendar for Kids (313 Pieces)",
+            "category": "Toys and Games",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_52",
+            "sentence_idx": 1,
+            "sentence": "He's excited each morning to see what awesome lego surprise awaits him.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "personal_usage",
+                    "opinion_with_reason",
+                    "product_description",
+					"opinion"
+                ]
+            }
+        },
+        {
+            "asin": "B07D4BKB2B",
+            "product_title": "LEGO City Advent Calendar 60201, New 2018 Edition, Minifigures, Small Building Toys, Christmas Countdown Calendar for Kids (313 Pieces)",
+            "category": "Toys and Games",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_85",
+            "sentence_idx": 2,
+            "sentence": "My daughter was bummed this year that I bought her the Lego friends one and she said next time she wants this one.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "comparative",
+                    "opinion",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B0155XV9KG",
+            "product_title": "TaoTronics Retractable Dog Leash, 16 ft Dog Walking Leash for Medium Large Dogs up to 110lbs, Tangle Free, One Button Break & Lock , Dog Waste Dispenser and Bags included",
+            "category": "Pet Supplies",
+            "helpful_votes": 2,
+            "review_overall_rating": 1.0,
+            "review_id": "review_23",
+            "sentence_idx": 3,
+            "sentence": "The leash fabric gets twisted up as it retracts causing a jam.",
+            "sentence_types": {
+                "gold": [
+                    "product_description",
+                    "situation",
+                    "product_usage",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B003QRPAR2",
+            "product_title": "Savic Hamster Heaven Metro Cage",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_72",
+            "sentence_idx": 3,
+            "sentence": "We especially love all the accessories that it came with but ended up getting a new water container as the one it came with kept slipping down.",
+            "sentence_types": {
+                "gold": [
+                    "opinion_with_reason",
+                    "personal_info",
+                    "product_description",
+                    "improvement_desire",
+					"situation",
+					"buy_decision",
+					"opinion"
+                ]
+            }
+        },
+        {
+            "asin": "B00HXAV0X6",
+            "product_title": "Seagate Backup Plus Fast 4TB Portable External Hard Drive USB 3.0, Black (STDA4000100)",
+            "category": "Electronics",
+            "helpful_votes": 3,
+            "review_overall_rating": 1.0,
+            "review_id": "review_99",
+            "sentence_idx": 0,
+            "sentence": "This HDD was purchased on May 15, 2016 and failed yesterday May 24, 2017.",
+            "sentence_types": {
+                "gold": [
+                    "personal_info",
+                    "product_description",
+                    "personal_usage",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B07XYDVSWJ",
+            "product_title": "Reebok Women's Crossfit Grace Tr Track Shoe",
+            "category": "Apparel",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_26",
+            "sentence_idx": 0,
+            "sentence": "I'm a big fan of Adidas, but I really like this Reebok and would definitely purchase it again.",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "comparative",
+                    "buy_decision",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B0096WDAIM",
+            "product_title": "Olympus E-PM2 Mirrorless Digital Camera with 14-42mm Lens (Black) (Old Model)",
+            "category": "Electronics",
+            "helpful_votes": 4,
+            "review_overall_rating": 5.0,
+            "review_id": "review_0",
+            "sentence_idx": 5,
+            "sentence": "Only drawback is seeing screen in bright sun.",
+            "sentence_types": {
+                "gold": [
+                    "opinion_with_reason",
+                    "product_usage",
+                    "product_description",
+                    "opinion"
+                ]
+            }
+        },
+        {
+            "asin": "B017B2043W",
+            "product_title": "Arlo Q \u2013 Wired, 1080p HD Security Camera | Night vision, Indoor only, 2-Way Audio | Cloud Storage Included | Works with Alexa (VMC3040), white, Standalone Camera (VMC3040-100NAS)",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 2.0,
+            "review_id": "review_99",
+            "sentence_idx": 6,
+            "sentence": "?",
+            "sentence_types": {
+                "gold": [
+                    "rhetorical",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        },
+        {
+            "asin": "B00JGSM1EK",
+            "product_title": "Nature's Miracle NMI07009 Deodorizng Spring Water Wipes, 100 Count",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_88",
+            "sentence_idx": 0,
+            "sentence": "I LOVE this brand and Amazon's price is much more affordable than getting these at my franchised local pet store, so as long as the price stays the same, I will keep ordering them.",
+            "sentence_types": {
+                "gold": [
+                    "comparative_seller",
+                    "price",
+                    "opinion",
+                    "speculative",
+					"buy_decision",
+					"personal_info"
+                ]
+            }
+        },
+        {
+            "asin": "B06XCW4VFS",
+            "product_title": "Bose SoundLink Revolve+ Portable and Long-Lasting Bluetooth 360 Speaker - Triple Black",
+            "category": "Electronics",
+            "helpful_votes": 3,
+            "review_overall_rating": 5.0,
+            "review_id": "review_21",
+            "sentence_idx": 2,
+            "sentence": "Oh crap, says I, going to examine it and expecting to find - in this order (1) the speaker shattered into bits, or (2) massive dents (3) internal damage, rattle or non function.",
+            "sentence_types": {
+                "gold": [
+                    "imagery",
+                    "inappropriate",
+                    "delivery_experience",
+                    "personal_info",
+					"product_description",
+					"opinion",
+					"opinion_with_reason"
+                ]
+            }
+        },
+        {
+            "asin": "B008DJT67S",
+            "product_title": "MCM Custom Audio 60-10030 8\" Marine Wakeboard Two-Way Speaker Pair - White",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 1.0,
+            "review_id": "review_54",
+            "sentence_idx": 4,
+            "sentence": "I wanted to try these to save some money, headphones would be a better choice that these.",
+            "sentence_types": {
+                "gold": [
+                    "comparative",
+                    "personal_info",
+                    "situation",
+                    "price",
+					"buy_decision",
+					"opinion",
+					"speculative"
+                ]
+            }
+        },
+        {
+            "asin": "B003QRPAR2",
+            "product_title": "Savic Hamster Heaven Metro Cage",
+            "category": "Pet Supplies",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_39",
+            "sentence_idx": 0,
+            "sentence": "Hampster heaven!",
+            "sentence_types": {
+                "gold": [
+                    "imagery",
+                    "opinion",
+                    "product_usage",
+                    "rhetorical"
+                ]
+            }
+        },
+        {
+            "asin": "B008DJT67S",
+            "product_title": "MCM Custom Audio 60-10030 8\" Marine Wakeboard Two-Way Speaker Pair - White",
+            "category": "Electronics",
+            "helpful_votes": 0,
+            "review_overall_rating": 5.0,
+            "review_id": "review_81",
+            "sentence_idx": 0,
+            "sentence": "Great sound- had to get a little longer screws to put them on the roll cage of my Side x Side, but still loud as hell while riding",
+            "sentence_types": {
+                "gold": [
+                    "opinion",
+                    "personal_usage",
+                    "product_description",
+                    "setup",
+					"inappropriate",
+					"personal_info"
+                ]
+            }
+        },
+        {
+            "asin": "0743251547",
+            "product_title": "Be Prepared: Be Prepared",
+            "category": "Books",
+            "helpful_votes": 2,
+            "review_overall_rating": 4.0,
+            "review_id": "review_47",
+            "sentence_idx": 1,
+            "sentence": "If anything, it probably helped reduce some of the stress for me before the baby was born because it has some funny parts also.",
+            "sentence_types": {
+                "gold": [
+                    "personal_usage",
+                    "personal_info",
+                    "opinion_with_reason",
+                    "product_description",
+					"situation",
+					"opinion"
+                ]
+            }
+        }
+    ],
+    "info": {
+        "sents_per_type": 10,
+        "random_seed": 10,
+        "thresholds": {
+            "seller_experience": 0.4,
+            "compatibility": 0.6,
+            "improvement_desire": 1,
+            "setup": 0.6,
+            "imagery": 0.8,
+            "tip": 0.7,
+            "personal_info": 0.2,
+            "comparative_seller": 0.8,
+            "product_usage": 0.2,
+            "general_info": 0.5,
+            "personal_usage": 0.5,
+            "rhetorical": 0.9,
+            "buy_decision": 0.9,
+            "situation": 0.9,
+            "delivery_experience": 0.8,
+            "sarcasm": 0.6,
+            "price": 0.2,
+            "opinion": 0.4,
+            "speculative": 0.6,
+            "inappropriate": 0.9,
+            "product_description": 0.3,
+            "comparative_general": 0.2,
+            "comparative": 0.8,
+            "opinion_with_reason": 0.5
+        }
+    },
+	"stats": {
+        "num_sentences": 240,
+        "types": {
+            "opinion": {
+                "count": 165,
+                "percent": 0.6875
+            },
+            "opinion_with_reason": {
+                "count": 46,
+                "percent": 0.19166666666666668
+            },
+            "improvement_desire": {
+                "count": 9,
+                "percent": 0.0375
+            },
+            "comparative": {
+                "count": 27,
+                "percent": 0.1125
+            },
+            "comparative_general": {
+                "count": 20,
+                "percent": 0.08333333333333333
+            },
+            "buy_decision": {
+                "count": 34,
+                "percent": 0.14166666666666666
+            },
+            "speculative": {
+                "count": 28,
+                "percent": 0.11666666666666667
+            },
+            "personal_usage": {
+                "count": 49,
+                "percent": 0.20416666666666666
+            },
+            "situation": {
+                "count": 43,
+                "percent": 0.17916666666666667
+            },
+            "setup": {
+                "count": 14,
+                "percent": 0.058333333333333334
+            },
+            "tip": {
+                "count": 27,
+                "percent": 0.1125
+            },
+            "product_usage": {
+                "count": 44,
+                "percent": 0.18333333333333332
+            },
+            "product_description": {
+                "count": 88,
+                "percent": 0.36666666666666664
+            },
+            "price": {
+                "count": 22,
+                "percent": 0.09166666666666666
+            },
+            "compatibility": {
+                "count": 15,
+                "percent": 0.0625
+            },
+            "personal_info": {
+                "count": 108,
+                "percent": 0.45
+            },
+            "general_info": {
+                "count": 9,
+                "percent": 0.0375
+            },
+            "comparative_seller": {
+                "count": 7,
+                "percent": 0.029166666666666667
+            },
+            "seller_experience": {
+                "count": 9,
+                "percent": 0.0375
+            },
+            "delivery_experience": {
+                "count": 15,
+                "percent": 0.0625
+            },
+            "imagery": {
+                "count": 21,
+                "percent": 0.0875
+            },
+            "sarcasm": {
+                "count": 9,
+                "percent": 0.0375
+            },
+            "rhetorical": {
+                "count": 23,
+                "percent": 0.09583333333333334
+            },
+            "inappropriate": {
+                "count": 5,
+                "percent": 0.020833333333333332
+            }
+        }
+    }
+}
